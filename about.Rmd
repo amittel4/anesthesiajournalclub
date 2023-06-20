@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-This site is the personal project of Aaron Mittel, MD. Any views or opinions expressed here are my own. For my patient-facing university-affiliation page, please click [here](https://www.anesthesiology.cuimc.columbia.edu/profile/aaron-m-mittel-md).
+This site is the personal educational project of Aaron Mittel, MD. I am an Assistant Professor of Anesthesiology at Columbia University Irving Medical Center in New York, NY. Any views or opinions expressed here are my own. Information in this site should not be used for medical decision-making without explicit involvement of a physician. For my patient-facing university-affiliation page, please click [here](https://www.anesthesiology.cuimc.columbia.edu/profile/aaron-m-mittel-md).
