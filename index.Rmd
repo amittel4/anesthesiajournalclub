@@ -2,4 +2,4 @@
 title: "Anesthesia Journal Club"
 ---
 
-# Teaching Material
+<img src="images/timmy_cat.jpeg" style="width:100%">
