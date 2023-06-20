@@ -1,4 +1,4 @@
-name: "Yay internet!"
+name: "columbia anesthesia!"
 output_dir: "."
 navbar:
   title: "Home"
@@ -9,4 +9,4 @@ navbar:
       href: http://github.com/amittel4/
 output:
   html_document:
-    theme: cerulean
+    theme: cosmo
