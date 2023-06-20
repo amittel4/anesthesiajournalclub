@@ -3,3 +3,6 @@ title: "Adult Cardiothoracic Anesthesiology"
 ---
 
 _Expanding Horizons One OR at a Time_
+
+# Mechanical Support
+[Impella vs ECMO Systematic Review + Meta-Analysis](https://journals.lww.com/shockjournal/pages/articleviewer.aspx?year=2022&issue=11000&article=00001&type=Fulltext)
