@@ -2,4 +2,4 @@
 title: "Anesthesia Journal Club"
 ---
 
-<img src="images/timmy_cat.jpg" style="width:100%">
+<img src="images/timmy_cat.jpg" style="width:75%">
