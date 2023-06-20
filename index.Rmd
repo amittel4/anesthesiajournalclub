@@ -3,3 +3,5 @@ title: "Anesthesia Journal Club"
 ---
 
 <img src="images/timmy_cat.jpg" style="width:75%">
+
+A teaching page devoted to exploring the evidence base supporting perioperative science and clinical care. Particular emphasis is given to adult cardiothoracic anesthesiology and critical care medicine.

@@ -3,6 +3,10 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
+    - text: "Cardiac"
+      href: cardiac.html
+    - text: "ICU"
+      href: icu.html
     - text: "About"
       href: about.html
     - icon: fa-github fa-lg
