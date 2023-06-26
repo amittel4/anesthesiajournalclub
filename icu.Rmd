@@ -3,3 +3,122 @@ title: "Critical Care Medicine"
 ---
 
 _Pragmatic Approaches to Precise Problems_
+
+<br>
+
+# 2022 - 2023
+
+All sessions held in SICU Conference Room unless otherwise noted.
+
+<br>
+
+<b>Session 1: Introduction</b>
+
+9.12.22, 2 p.m.
+
+[Understanding RCTs](https://adc.bmj.com/content/90/8/840)
+
+<br>
+<b>Session 2: Sepsis and Goal-Directed Therapy</b>
+
+9.20.22, 1 p.m.
+
+<br>
+<b>Session 3: Sepsis Deep-Dive</b>
+
+9.28.22, 2 p.m.
+
+<br>
+<b>Session 4: ARDS</b>
+
+10.10.22, 1 p.m.
+
+<br>
+<b>Session 5: ARDS Deep-Dive</b>
+
+10.17.22, 1 p.m.
+
+<br>
+<b>Session 6: Sedation</b>
+
+12.7.22, 1 p.m.
+
+<br>
+<b>Session 7: Stroke Deep-Dive</b>
+
+12.16.22, 1 p.m.
+
+[RESCUE Japan](https://www.nejm.org/doi/full/10.1056/NEJMoa2118191)
+
+<br>
+<b>Session 8: Renal Failure and Dialysis Timing</b>
+
+2.2.23, 1 p.m.
+
+<br>
+<b>Session 9: Fluid Therapy Deep-Dive</b>
+
+2.23.23, 3 p.m.
+
+[PLUS](https://www.nejm.org/doi/full/10.1056/NEJMoa2114464)
+
+<br>
+<b>Session 10: Choice of IV Fluid Therapy</b>
+
+3.2.23, 3 p.m.
+
+<br>
+<b>Session 11: Restrictive vs Liberal Deep-Dive</b>
+
+3.16.23, 1 p.m.
+
+[CLASSIC](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707)
+
+<br>
+<b>Session 12: Post-arrest Management</b>
+
+3.30.23, 3 p.m.
+
+<br>
+<b>Session 13: Steroids for Distributive Shock</b>
+
+5.4.23, 3 p.m.
+
+<br>
+<b>Session 14: Temperature Regulation Deep-Dive</b>
+
+5.11.23, 3 p.m.
+
+[CAPITAL CHILL](https://jamanetwork.com/journals/jama/fullarticle/2785263)
+
+<br>
+<b>Session 15: Vitamin C Deep-Dive</b>
+
+5.18.23, 3 p.m.
+
+[LOVIT (Vit C)](https://www.nejm.org/doi/full/10.1056/NEJMoa2200644)
+
+<br>
+<b>Session 16: Nutrition</b>
+
+6.1.23, 3 p.m
+
+<br>
+<b>Session 17: Stress Ulcer Prophylaxis Deep-Dive</b>
+
+6.15.23, 3 p.m.
+
+[SUP-ICU](https://www.nejm.org/doi/full/10.1056/nejmoa1714919)
+
+<br>
+<b>Session 18: Healthcare Disparities</b>
+
+7.13.23, 3 p.m.
+
+[Association of Race and Ethnicity with COVID-19 Test Positivity and Hospitalization Is Mediated by Socioeconomic Factors](https://www.atsjournals.org/doi/10.1513/AnnalsATS.202011-1448OC)
+
+[Racial Bias in Pulse Oximetry Measurement](https://www.nejm.org/doi/full/10.1056/NEJMc2029240)
+
+[Patient and Hospital Factors Associated With Differences in Mortality Rates Among Black and White US Medicare Beneficiaries Hospitalized With COVID-19 Infection](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781182)
+
+[Temporal Trends in Critical Care Outcomes in U.S. Minority-Serving Hospitals](https://www.atsjournals.org/doi/10.1164/rccm.201903-0623OC)
