@@ -13,7 +13,7 @@ img {
 }
 </style>
 
-<img src="images/batman.jpg" alt="batman_stairs" style="width:75%;">
+<img src="images/batman.jpg" alt="batman_stairs" style="width:50%;">
 
 [Fluids and Blood Products](https://docs.google.com/presentation/d/1F30u3_w-o6_zAfaI812f5Y8wDeQzbVNWazm2rGHbwiA/edit?usp=sharing)
 
