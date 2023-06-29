@@ -2,10 +2,6 @@
 title: "Critical Care Medicine"
 ---
 
-_Pragmatic Approaches to Precise Problems_
-
-<br>
-
 # 2022 - 2023
 
 All sessions held in SICU Conference Room unless otherwise noted.
@@ -138,10 +134,30 @@ All sessions held in SICU Conference Room unless otherwise noted.
 
 3.30.23, 3 p.m.
 
+[HACA](https://www.nejm.org/doi/full/10.1056/nejmoa012689)
+
+[Tracheal intubation and survival](https://jamanetwork.com/journals/jama/fullarticle/2598717)
+
+[TTM](https://www.nejm.org/doi/full/10.1056/NEJMoa1310519)
+
+[HYPERION](https://www.nejm.org/doi/10.1056/NEJMoa1906661)
+
+[TTM2](https://www.nejm.org/doi/full/10.1056/NEJMoa2100591)
+
 <br>
 <b>Session 13: Steroids for Distributive Shock</b>
 
 5.4.23, 3 p.m.
+
+[Annane Steroid Trial](https://jamanetwork.com/journals/jama/fullarticle/195197)
+
+[CORTICUS](https://www.nejm.org/doi/full/10.1056/NEJMoa071366)
+
+[ADRENAL](https://www.nejm.org/doi/full/10.1056/NEJMoa1705835)
+
+[APROCCHSS](https://www.nejm.org/doi/full/10.1056/NEJMoa1705716)
+
+[VITAMINS](https://jamanetwork.com/journals/jama/fullarticle/2759414)
 
 <br>
 <b>Session 14: Temperature Regulation Deep-Dive</b>
@@ -161,6 +177,17 @@ All sessions held in SICU Conference Room unless otherwise noted.
 <b>Session 16: Nutrition</b>
 
 6.1.23, 3 p.m
+
+[TARGET](https://www.nejm.org/doi/full/10.1056/NEJMoa1811687)
+
+[PermiT](https://www.nejm.org/doi/full/10.1056/NEJMoa1502826)
+
+[EPANIC](https://www.nejm.org/doi/full/10.1056/NEJMoa1102662)
+
+[EDEN](https://jamanetwork.com/journals/jama/fullarticle/1355969)
+
+[Optimisation of energy provision with supplementary parenteral nutrition](https://www.sciencedirect.com/science/article/pii/S0140673612613518?via%3Dihub)
+
 
 <br>
 <b>Session 17: Stress Ulcer Prophylaxis Deep-Dive</b>

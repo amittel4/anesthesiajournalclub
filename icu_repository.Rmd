@@ -1,0 +1,40 @@
+---
+title: "Critical Care Medicine"
+---
+
+_Pragmatic Approaches to Precise Problems_
+
+# Subject Matter Repository
+
+<br>
+
+<b>Study Design</b>
+
+[Understanding RCTs](https://adc.bmj.com/content/90/8/840)
+
+[How to Read a Meta-Analysis](https://www.bmj.com/content/315/7109/672)
+
+<br>
+<b>Sedation</b>
+
+[Daily interruption of sedation](https://www.nejm.org/doi/full/10.1056/NEJM200005183422002?query=recirc_curatedRelated_article)
+
+[SLEAP](https://jamanetwork.com/journals/jama/fullarticle/1380160)
+
+[MIND-USA](https://www.nejm.org/doi/10.1056/NEJMoa1808217)
+
+[NONSEDA](https://www.nejm.org/doi/full/10.1056/NEJMoa1906759)
+
+[MENDS-2](https://www.nejm.org/doi/full/10.1056/NEJMoa2024922)
+
+[AID-ICU (2023)](https://www.nejm.org/doi/full/10.1056/NEJMoa2211868)
+
+<br>
+
+<b>Stroke</b>
+
+[DAWN](Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct, N Engl J Med 2018; 378:11-21)
+
+[DESTINY (hemicrani)]
+
+[RESCUE Japan](https://www.nejm.org/doi/full/10.1056/NEJMoa2118191?query=TOC&cid=NEJM%20eToc,%20February%2010,%202022%20DM707270_NEJM_Subscriber&bid=812301726)

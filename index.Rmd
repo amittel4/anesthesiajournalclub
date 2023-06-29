@@ -12,4 +12,4 @@ img {
 <img src="images/timmy_cat.jpg" alt="timmy" style="width:75%;">
 
 
-A website devoted to the evidence base supporting perioperative science and clinical care. Particular emphasis is given to adult cardiothoracic anesthesiology and critical care medicine.
+This educational website is a compendium for selected articles and presentations related to perioperative science and clinical care. Particular emphasis is given to adult cardiothoracic anesthesiology and critical care medicine. Articles are organized by academic year (July 1 - June 30) in which they are _taught_, rather than the years in which they were published.

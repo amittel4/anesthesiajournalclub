@@ -4,9 +4,18 @@ navbar:
   title: "Home"
   right:
     - text: "Cardiac"
-      href: cardiac.html
+      menu:
+      - text: Repository by Subject
+        href: cardiac_repository.html
+      - text: 2022 - 2023
+        href: cardiac_2022_2023.html
+      - text: 2021 - 2022
     - text: "ICU"
-      href: icu.html
+      menu:
+      - text: Repository by Subject
+        href: icu_repository.html
+      - text: 2022 - 2023
+        href: icu_2022_2023.html
     - text: "Periop Didactics"
       href: didactics.html
     - text: "About"
