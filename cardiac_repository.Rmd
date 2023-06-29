@@ -2,6 +2,127 @@
 title: "Adult Cardiothoracic Anesthesiology" 
 ---
 
-_Expanding Horizons One OR at a Time_
+_Better Living Through Extracorporeal Circuity_
 
 ## Subject Matter Repository
+
+<br>
+
+<b>Study Design</b>
+
+[Understanding RCTs](https://adc.bmj.com/content/90/8/840)
+
+[How to Read a Meta-Analysis](https://www.bmj.com/content/315/7109/672)
+
+<br>
+<b>Anesthestic Agents and Approaches</b>
+
+[MYRIAD](https://www.nejm.org/doi/full/10.1056/NEJMoa1816476)
+
+[SOLVE TAVI](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.120.046451)
+
+[DEXACET](https://jamanetwork.com/journals/jama/fullarticle/2725234)
+
+[EEG Burst Suppression Mediates Delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7365754/?report=reader)
+
+<br>
+<b>Perioperative Medical Therapy</b>
+
+[POISE](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(08)60601-7/fulltext)
+
+[POISE II](https://www.nejm.org/doi/full/10.1056/nejmoa1401105)
+
+[POISE III](https://www.nejm.org/doi/full/10.1056/NEJMoa2201171)
+
+<br>
+<b>Fluids and Blood Products</b>
+
+[ALBICS](https://jamanetwork.com/journals/jama/fullarticle/2794363)
+
+[PCC vs FFP for post-cardiotomy bleeding](https://jamanetwork.com/journals/jamasurgery/article-abstract/2793560)
+
+<br>
+<b>Aortic Valve</b>
+
+[Evolut Low Risk](https://www.nejm.org/doi/full/10.1056/nejmoa1816885)
+
+[Partner III](https://www.nejm.org/doi/full/10.1056/nejmoa1814052)
+
+[PROTECTED TAVR](https://www.nejm.org/doi/full/10.1056/NEJMoa2204961)
+
+<br>
+<b>Mitral Valve</b>
+
+[CTSN Ischemic MR](https://www.nejm.org/doi/full/10.1056/nejmoa1312808)
+
+[RIME](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.112.143818)
+
+<br>
+<b>Tricuspid Valve</b>
+
+[CTSN Tricuspid Repair in Mitral Regurg](https://www.nejm.org/doi/full/10.1056/NEJMoa2115961)
+
+[TRILUMINATE Pivotal](https://www.nejm.org/doi/full/10.1056/NEJMoa2300525)
+
+<br>
+<b>Heart Failure, Mechanical Support, and Transplants</b>
+
+[MOMENTUM III](https://jamanetwork.com/journals/jama/fullarticle/2796306)
+
+[Mild AI at time of LVAD](https://www.jtcvs.org/article/S0022-5223(20)31062-X/fulltext)
+
+[Transplantation Outcomes with Donor Hearts after Circulatory Death](https://www.nejm.org/doi/full/10.1056/NEJMoa2212438)
+
+<br>
+<b>CABG</b>
+
+[Radial Artery Patency](https://www.nejm.org/doi/full/10.1056/nejmoa040982)
+
+[Arterial Revascularization](https://www.nejm.org/doi/full/10.1056/NEJMoa1808783)
+
+[ROOBY](https://www.nejm.org/doi/full/10.1056/nejmoa1614341)
+
+[GOPCABE](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.035857)
+
+[DOORS](https://www.sciencedirect.com/science/article/pii/S0022522314001846?via%3Dihub)
+
+[VISION](https://www.nejm.org/doi/full/10.1056/NEJMoa2000803)
+
+<br>
+<b>Major Aorta Surgery</b>
+
+[Spinal Cord Protection - Review](https://www.sciencedirect.com/science/article/pii/S1053077021005309?via%3Dihub)
+
+<br>
+<b>Lung Injury</b>
+
+[STRESS](ttps://www.nejm.org/doi/10.1056/NEJMoa2212667)
+
+[SIRS](https://www.sciencedirect.com/science/article/pii/S0140673615002731?via%3Dihub)
+
+[DECS](https://jamanetwork.com/journals/jama/fullarticle/1389612)
+
+[MECANO](https://www.sciencedirect.com/science/article/pii/S0012369220351527?via%3Dihub)
+
+[Ventilation during CPB Meta-analysis](https://journals.lww.com/md-journal/FullText/2017/03240/Ventilation_during_cardiopulmonary_bypass_for.63.aspx)
+
+[Intensive Recruitment Strategy RCT](https://jamanetwork.com/journals/jama/fullarticle/2612913)
+
+[PROVECS](https://link.springer.com/article/10.1007/s00134-019-05741-8)
+
+[PROVHILO](https://www.sciencedirect.com/science/article/pii/S0140673614604165?via%3Dihub)
+
+[IMPROVE](https://www.nejm.org/doi/full/10.1056/NEJMoa1301082)
+
+[High vs Low PEEP in Obese Non-Cardiac Surgery](https://jamanetwork.com/journals/jama/fullarticle/2735541)
+
+[Driving Pressure in Thoracic Surgery](https://pubs.asahq.org/anesthesiology/article/130/3/385/19222/Driving-Pressure-during-Thoracic-Surgery)
+
+[Driving Pressure in Abdominal Surgery](https://journals.lww.com/anesthesia-analgesia/Fulltext/2021/11000/Driving_Pressure_Guided_Individualized_Positive.18.aspx)
+
+<br>
+<b>Echocardiography</b>
+
+[Association of E/e' with CV Events Retrospective Cohort](https://pubmed.ncbi.nlm.nih.gov/36332804/)
+
+[Mild AI at time of LVAD](https://www.jtcvs.org/article/S0022-5223(20)31062-X/fulltext)
