@@ -33,8 +33,8 @@ _Pragmatic Approaches to Precise Problems_
 
 <b>Stroke</b>
 
-[DAWN](Thrombectomy 6 to 24 Hours after Stroke with a Mismatch between Deficit and Infarct, N Engl J Med 2018; 378:11-21)
+[DAWN](https://www.nejm.org/doi/full/10.1056/nejmoa1706442)
 
-[DESTINY (hemicrani)]
+[DESTINY (hemicrani)](https://www.ahajournals.org/doi/10.1161/strokeaha.107.485649)
 
 [RESCUE Japan](https://www.nejm.org/doi/full/10.1056/NEJMoa2118191?query=TOC&cid=NEJM%20eToc,%20February%2010,%202022%20DM707270_NEJM_Subscriber&bid=812301726)
