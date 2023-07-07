@@ -15,10 +15,28 @@ img {
 
 <img src="images/batman.jpg" alt="batman_stairs" style="width:50%;">
 
+<br>
+
+<b>Basic</b>
+
+<br>
+
 [Fluids and Blood Products](https://docs.google.com/presentation/d/1F30u3_w-o6_zAfaI812f5Y8wDeQzbVNWazm2rGHbwiA/edit?usp=sharing)
+
+[Lung Mechanics and Anesthesia](https://docs.google.com/presentation/d/1qOQ211_nebN3MlG6n4To86j3gEKSH_gF/edit?usp=sharing&ouid=102079696541019610913&rtpof=true&sd=true)
+
+<br>
+
+<b>Advanced</b>
+
+<br>
+
+[Oxygen Therapy in Cardiac Surgery](https://docs.google.com/presentation/d/1aHKrGnUDZ-H59XzJ554mwTzl_rzUWpN9/edit?usp=sharing&ouid=102079696541019610913&rtpof=true&sd=true)
 
 [Intra-aortic Balloon Pumps](https://docs.google.com/presentation/d/1DN0Maluxe8i_izgy4co4nnSDHUU9w2JCyTyx70_KBHs/edit?usp=sharing)
 
 [Postoperative Vasoplegia](https://docs.google.com/presentation/d/16SXXfynVghB8YQKg1XxakC96fkN4NiWJbF84WSyh4VM/edit?usp=sharing)
 
-[Burns, Poisoning, and Drowning - Periop Considerations](https://docs.google.com/presentation/d/1zKzRpVWhYoBqVLCwArJghcvsALpx8NCneDVFQwhYSRY/edit?usp=sharing)
+[Acute Management of Heart Failure 2020](https://docs.google.com/presentation/d/1aWmYuLZa-dpEcgzVs0De5G61uW-KUsNw/edit#slide=id.p30)
+
+[Vasodilator Therapy in Septic Shock](https://docs.google.com/presentation/d/1dZbta14AVySTl1JdbeH0pVfsiTJNrlph/edit?usp=sharing&ouid=102079696541019610913&rtpof=true&sd=true)
