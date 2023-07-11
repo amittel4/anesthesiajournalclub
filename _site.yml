@@ -5,7 +5,7 @@ navbar:
   right:
     - text: "Cardiac"
       menu:
-      - text: Repository by Subject
+      - text: High Impact Articles
         href: cardiac_repository.html
       - text: 2022 - 2023
         href: cardiac_2022_2023.html
@@ -13,7 +13,7 @@ navbar:
         href: cardiac_2021_2022.html
     - text: "ICU"
       menu:
-      - text: Repository by Subject
+      - text: High Impact Articles
         href: icu_repository.html
       - text: 2022 - 2023
         href: icu_2022_2023.html
