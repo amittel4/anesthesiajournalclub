@@ -10,6 +10,7 @@ navbar:
       - text: 2022 - 2023
         href: cardiac_2022_2023.html
       - text: 2021 - 2022
+        href: cardiac_2021_2022.html
     - text: "ICU"
       menu:
       - text: Repository by Subject

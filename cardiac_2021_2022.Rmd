@@ -1,0 +1,23 @@
+---
+title: "Adult Cardiothoracic Anesthesiology" 
+---
+
+# 2021 - 2022
+
+[MYRIAD RCT](https://www.nejm.org/doi/10.1056/NEJMoa1816476)
+
+[TIVA Associated with Survival after CABG Retrospective](https://pubmed.ncbi.nlm.nih.gov/32762879/)
+
+[Postcardiotomy VA ECMO w vs without IABP Retrospective Study](https://www.sciencedirect.com/science/article/pii/S1053077022001173)
+
+[High-Sensitivity Troponin I after Cardiac Surgery and 30-Day Mortality](https://www.nejm.org/doi/full/10.1056/NEJMoa2000803)
+
+[High vs Normal BP in Relation to RV Function after CT Surgery RCT](https://www.sciencedirect.com/science/article/pii/S1053077021001890?via%3Dihub)
+
+[EEG Burst Suppression on CPB in Elderly Mediates Postop Delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7365754/)
+
+[Hyperoxia and Antioxidants for MI in Non-Cardiac Surgery 2x2 Factorial RCT](https://pubs.asahq.org/anesthesiology/article/136/3/408/118376/Hyperoxia-and-Antioxidants-for-Myocardial-Injury)
+
+[Concomitant Tricuspid Repair in Patients with Degenerative MR RCT](https://www.nejm.org/doi/full/10.1056/NEJMoa2115961)
+
+[Association between in-hospital Mortality and low cardiac output syndrome with morning vs afternoon cardiac surgery retrospective cohort](https://pubs.asahq.org/anesthesiology/article/134/4/552/115299/Association-between-In-hospital-Mortality-and-Low)
