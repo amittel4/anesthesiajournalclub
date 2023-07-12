@@ -43,9 +43,33 @@ _Pragmatic Approaches to Precise Problems_
 
 <b>Resuscitation after Cardiac Arrest</b>
 
+[HACA](https://www.nejm.org/doi/full/10.1056/nejmoa012689)
+
+[TTM](https://www.nejm.org/doi/full/10.1056/nejmoa1310519)
+
+[TTM2](https://www.nejm.org/doi/full/10.1056/NEJMoa2100591)
+
+[HYPERION](https://www.nejm.org/doi/10.1056/NEJMoa1906661)
+
+[CAPITAL CHILL](https://jamanetwork.com/journals/jama/fullarticle/2785263)
+
+[ARREST](https://pubmed.ncbi.nlm.nih.gov/33197396)
+
+[Tracheal intubation and survival](https://jamanetwork.com/journals/jama/fullarticle/2598717)
+
+[INCEPTION](https://www.nejm.org/doi/full/10.1056/NEJMoa2204511)
+
 <br>
 
 <b>Postop CT Surgery and Mechanical Circulatory Support</b>
+
+[MOMENTUM 3](https://www.nejm.org/doi/full/10.1056/NEJMoa1900486)
+
+[Rate vs rhythm control for a.fib. after cardiac surgery](https://www.nejm.org/doi/full/10.1056/nejmoa1602002)
+
+[VANCS](https://pubs.asahq.org/anesthesiology/article/126/1/85/662/Vasopressin-versus-Norepinephrine-in-Patients-with)
+
+[ADVOR](https://www.nejm.org/doi/10.1056/NEJMoa2203094?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
 
 <br>
 
@@ -55,9 +79,27 @@ _Pragmatic Approaches to Precise Problems_
 
 <i>Goal-directed sepsis resuscitation</i>
 
+[EGDT (Rivers et al)](https://www.nejm.org/doi/full/10.1056/NEJMoa010307)
+
+[PROCESS](https://www.nejm.org/doi/full/10.1056/nejmoa1401602)
+
+[ProMISe](https://www.nejm.org/doi/full/10.1056/nejmoa1500896)
+
+[ARISE](https://www.nejm.org/doi/full/10.1056/NEJMoa1404380)
+
 <br>
 
 <i>MAP Targets/Vasopressor Strategies</i>
+
+[SEPSISPAM](https://www.nejm.org/doi/full/10.1056/NEJMoa1312173)
+
+[65 trial](https://jamanetwork.com/journals/jama/fullarticle/2761427?resultClick=1)
+
+[ANDROMEDA-SHOCK](https://jamanetwork.com/journals/jama/fullarticle/2724361)
+
+[VASST](https://www.nejm.org/doi/full/10.1056/NEJMoa067373)
+
+[Association Between US Norepinephrine Shortage and Mortality](https://jamanetwork.com/journals/jama/fullarticle/2612912)
 
 <br>
 
