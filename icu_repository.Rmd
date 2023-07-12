@@ -4,7 +4,7 @@ title: "Critical Care Medicine"
 
 _Pragmatic Approaches to Precise Problems_
 
-## High Yield/Impactful Articles
+### High Yield/Impactful Articles
 
 <br>
 
@@ -75,8 +75,6 @@ _Pragmatic Approaches to Precise Problems_
 
 <b>Resuscitation/Sepsis</b>
 
-<br>
-
 <i>Goal-directed sepsis resuscitation</i>
 
 [EGDT (Rivers et al)](https://www.nejm.org/doi/full/10.1056/NEJMoa010307)
@@ -105,62 +103,187 @@ _Pragmatic Approaches to Precise Problems_
 
 <i>IV Fluid Volume Management</i>
 
+[FEAST](https://www.nejm.org/doi/full/10.1056/nejmoa1101549)
+
+[Low vs high volume meta-analysis](https://pubmed.ncbi.nlm.nih.gov/31982391/)
+
+[CLASSIC](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707)
+
+[CLOVERS](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663)
+
 <br>
 
 <i>IV Fluid Choice</i>
 
+[SAFE](https://www.nejm.org/doi/full/10.1056/nejmoa040232)
+
+[SMART](https://www.nejm.org/doi/full/10.1056/nejmoa1711584)
+
+[CRISTAL](https://jamanetwork.com/journals/jama/fullarticle/1752245)
+
+[ALBIOS](https://www.nejm.org/doi/full/10.1056/nejmoa1305727)
+
+[HES vs. saline](https://www.nejm.org/doi/full/10.1056/NEJMoa1209759)
+
 <br>
 
-<b>Adjunct Shock Therapy: Steroids, HAT, Vitamin C</b>
+<i>Adjunct Shock Therapy: Steroids, HAT, Vitamin C</i>
+
+[Original Annane trial](https://jamanetwork.com/journals/jama/fullarticle/195197)
+
+[CORTICUS](https://www.nejm.org/doi/full/10.1056/NEJMoa071366)
+
+[ADRENAL](https://www.nejm.org/doi/full/10.1056/NEJMoa1705835)
+
+[APROCCHSS](https://www.nejm.org/doi/full/10.1056/NEJMoa1705716)
+
+[VITAMINS](https://jamanetwork.com/journals/jama/fullarticle/2759414)
+
+[LOVIT (Vitamin C)](https://www.nejm.org/doi/full/10.1056/NEJMoa2200644)
 
 <br>
 
 <b>Respiratory support/ARDS Care</b>
 
-<br>
-
 <i>Lung-protective Ventilation</i>
+
+[ARMA](https://www.nejm.org/doi/full/10.1056/nejm200005043421801)
+
+[ALVEOLI](https://www.nejm.org/doi/full/10.1056/NEJMoa032193)
+
+[EPVent-2](https://jamanetwork.com/journals/jama/fullarticle/2725206)
+
+[PROSEVA](https://www.nejm.org/doi/full/10.1056/nejmoa1214103)
+
+[ACURASYS](https://www.nejm.org/doi/full/10.1056/nejmoa1005372)
+
+[ROSE](https://www.nejm.org/doi/full/10.1056/nejmoa1901686)
+
+[LUNG SAFE](https://jamanetwork.com/journals/jama/fullarticle/2492877)
 
 <br>
 
 <i>VV ECMO</i>
 
+[CESAR](https://www.sciencedirect.com/science/article/pii/S0140673609610692?via%3Dihub)
+
+[EOLIA](https://www.nejm.org/doi/full/10.1056/NEJMoa1800385)
+
+[Bayesian analysis of EOLIA](https://jamanetwork.com/journals/jama/fullarticle/2709620)
+
 <br>
 
 <i>Post-extubation Care</i>
 
+[TRAC MAN](https://jamanetwork.com/journals/jama/fullarticle/1690674)
+
+[Postextubation HFNC/NIV](https://pubmed.ncbi.nlm.nih.gov/31577036/)
+
 <br>
 
-<i>Oyxgenation Targets</i>
+<i>Oxygenation Targets</i>
+
+[HOT-ICU](https://www.nejm.org/doi/10.1056/NEJMoa2032510)
+
+[Oxygen-ICU](https://jamanetwork.com/journals/jama/fullarticle/2565306)
+
+[ICU ROX](https://www.nejm.org/doi/full/10.1056/NEJMoa1903297)
+
+[BOX](https://www.nejm.org/doi/10.1056/NEJMoa2208686)
+
+[PILOT](https://www.nejm.org/doi/full/10.1056/NEJMoa2208415)
+
 
 <br>
 
 <b>Nutrition/GI</b>
 
+[TARGET](https://www.nejm.org/doi/full/10.1056/NEJMoa1811687)
+
+[PERMIT](https://www.nejm.org/doi/full/10.1056/NEJMoa1502826)
+
+[EPANIC](https://www.nejm.org/doi/full/10.1056/NEJMoa1102662)
+
+[EDEN](https://jamanetwork.com/journals/jama/fullarticle/1355969)
+
+[Supplementary parenteral nutrition trial](	https://www.sciencedirect.com/science/article/pii/S0140673612613518?via%3Dihub)
+
+[SUP-ICU](ttps://www.nejm.org/doi/full/10.1056/nejmoa1714919)
+
+[PEPTIC](https://jamanetwork.com/journals/jama/fullarticle/2759412)
+
 <br>
 
 <b>Renal Failure and Dialysis</b>
+
+[AKIKI](https://www.nejm.org/doi/full/10.1056/NEJMoa1603017)
+
+[SMARRT-AKI](https://www.nejm.org/doi/full/10.1056/nejmoa2000741)
+
+[IDEAL-ICU](https://www.nejm.org/doi/full/10.1056/NEJMoa1803213)
+
+[RENAL](https://www.nejm.org/doi/full/10.1056/nejmoa0902413)
+
+[AKIKI2](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00350-0/fulltext)
+
+[PLUS](https://www.nejm.org/doi/full/10.1056/NEJMoa2114464)
 
 <br>
 
 <b>Transfusion</b>
 
+[TRICS III](https://www.nejm.org/doi/full/10.1056/NEJMoa1711818)
+
+[FOCUS](https://www.nejm.org/doi/full/10.1056/NEJMoa1012452)
+
+[TRISS](https://www.nejm.org/doi/full/10.1056/nejmoa1406617)
+
+[Transfusion strategies in upper GI bleeding](	https://www.nejm.org/doi/full/10.1056/nejmoa1211801)
+
+[REALITY](https://jamanetwork.com/journals/jama/article-abstract/2776201)
+
+[PROPPR](https://jamanetwork.com/journals/jama/fullarticle/2107789)
+
 <br>
 
 <b>Endocrine</b>
+
+[NICE SUGAR](https://www.nejm.org/doi/full/10.1056/nejmoa0810625)
 
 <br>
 
 <b>Infectious Disease</b>
 
+[STOP-IT](https://www.nejm.org/doi/full/10.1056/nejmoa1411162)
+
+[MERINO](https://jamanetwork.com/journals/jama/fullarticle/2702145)
+
+[PROGRESS](https://pubmed.ncbi.nlm.nih.gov/32757963/)
+
 <br>
 
 <b>Palliative Care</b>
+
+[RCT of family-support intervention in ICUs](https://www.nejm.org/doi/full/10.1056/NEJMoa1802637)
 
 <br>
 
 <b>Debility, Survivorship, and Post-intensive Care Syndrome</b>
 
+[TEAM](TEAM	https://www.nejm.org/doi/full/10.1056/NEJMoa2209083)
+
 <br>
 
 <b>Healthcare Disparities in Critical Illness</b>
+
+[Association of Race and Ethnicity with COVID-19 Test Positivity and Hospitalization Is Mediated by Socioeconomic Factors](https://www.atsjournals.org/doi/10.1513/AnnalsATS.202011-1448OC)
+
+[Racial bias in pulse oximetry](https://www.nejm.org/doi/full/10.1056/NEJMc2029240)
+
+[Patient and Hospital Factors Associated With Differences in Mortality Rates Among Black and White US Medicare Beneficiaries Hospitalized With COVID-19 Infection](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781182)
+
+[Temporal Trends in Critical Care Outcomes in U.S. Minority-Serving Hospitals](https://www.atsjournals.org/doi/10.1164/rccm.201903-0623OC)
+
+[Racial Variation in End-of-Life Intensive Care Use: A Race or Hospital Effect?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6773.2006.00598.x)
+
+[Genetic misdiagnoses and the potential for health disparities](https://www.nejm.org/doi/full/10.1056/NEJMsa1507092)
