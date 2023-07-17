@@ -179,6 +179,8 @@ _Pragmatic Approaches to Precise Problems_
 
 [Postextubation HFNC/NIV](https://pubmed.ncbi.nlm.nih.gov/31577036/)
 
+[TEAM](https://www.nejm.org/doi/full/10.1056/NEJMoa2209083)
+
 <br>
 
 <i>Oxygenation Targets</i>
@@ -265,12 +267,6 @@ _Pragmatic Approaches to Precise Problems_
 <b>Palliative Care</b>
 
 [RCT of family-support intervention in ICUs](https://www.nejm.org/doi/full/10.1056/NEJMoa1802637)
-
-<br>
-
-<b>Debility, Survivorship, and Post-intensive Care Syndrome</b>
-
-[TEAM](TEAM	https://www.nejm.org/doi/full/10.1056/NEJMoa2209083)
 
 <br>
 
