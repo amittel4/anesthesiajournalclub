@@ -7,6 +7,8 @@ navbar:
       menu:
       - text: High Impact Articles
         href: cardiac_repository.html
+      - text: 2023 - 2024
+        href: cardiac_2023_2024.html
       - text: 2022 - 2023
         href: cardiac_2022_2023.html
       - text: 2021 - 2022
@@ -15,6 +17,8 @@ navbar:
       menu:
       - text: High Impact Articles
         href: icu_repository.html
+      - text: 2023 - 2024
+        href: icu_2023_2024.html
       - text: 2022 - 2023
         href: icu_2022_2023.html
     - text: "Periop Didactics"

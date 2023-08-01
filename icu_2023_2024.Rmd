@@ -1,0 +1,254 @@
+---
+title: "Critical Care Medicine"
+---
+
+# 2023 - 2024
+
+All sessions held in SICU Conference Room unless otherwise noted.
+
+_Journal club activities will be split into two formats:_
+<br>
+_1) Evidence-based Medicine ("EBM") sessions, which review current/recent literature on a common condition or problem in critical care and,_
+<br>
+_2) Deep Dive sessions, which focus on nuances of study design and interpretation._
+
+<br>
+
+<b>Session 1: Introduction</b>
+
+8.30.23, 1 p.m.
+
+Moderator: Aaron Mittel, MD
+
+[Understanding RCTs](https://adc.bmj.com/content/90/8/840)
+
+<br>
+<b>Session 2: Healthcare Disparities EBM</b>
+
+9.18.23, 1 p.m.
+
+Moderator: Elvedin Lukovic, MD, PhD
+
+[Association of Race and Ethnicity with COVID-19 Test Positivity and Hospitalization Is Mediated by Socioeconomic Factors](https://www.atsjournals.org/doi/10.1513/AnnalsATS.202011-1448OC)
+
+[Racial Bias in Pulse Oximetry Measurement](https://www.nejm.org/doi/full/10.1056/NEJMc2029240)
+
+[Patient and Hospital Factors Associated With Differences in Mortality Rates Among Black and White US Medicare Beneficiaries Hospitalized With COVID-19 Infection](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781182)
+
+[Temporal Trends in Critical Care Outcomes in U.S. Minority-Serving Hospitals](https://www.atsjournals.org/doi/10.1164/rccm.201903-0623OC)
+
+<br>
+<b>Session 3: Sepsis EBM</b>
+
+10.9.23, 1 p.m.
+
+Moderator: Elvedin Lukovic, MD, PhD
+
+[EGDT (Rivers)](https://www.nejm.org/doi/full/10.1056/NEJMoa010307)
+
+[ProCESS](https://www.nejm.org/doi/full/10.1056/nejmoa1401602)
+
+[ProMISe](https://www.nejm.org/doi/full/10.1056/nejmoa1500896)
+
+[ARISE](https://www.nejm.org/doi/full/10.1056/NEJMoa1404380)
+
+[SEPSISPAM](https://www.nejm.org/doi/full/10.1056/NEJMoa1312173)
+
+[65 Trial](https://jamanetwork.com/journals/jama/fullarticle/2761427)
+
+
+<br>
+<b>Session 4: Sepsis Deep-Dive</b>
+
+10.23.23., 1 p.m.
+
+Moderator: Elvedin Lukovic, MD, PhD
+
+[ANDROMEDA-SHOCK](https://jamanetwork.com/journals/jama/fullarticle/2724361)
+
+<br>
+<b>Session 5: ARDS</b>
+
+11.6.23, 1 p.m.
+
+Moderator: Aaron Mittel, MD or Elvedin Lukovic, MD, PhD or Available ICU Faculy
+
+[ARMA](https://www.nejm.org/doi/full/10.1056/nejm200005043421801)
+
+[ALVEOLI](https://www.nejm.org/doi/full/10.1056/NEJMoa032193)
+
+[EPVent-2](https://jamanetwork.com/journals/jama/fullarticle/2725206)
+
+[PROSEVA](https://www.nejm.org/doi/full/10.1056/nejmoa1214103)
+
+[ACURASYS](https://www.nejm.org/doi/full/10.1056/nejmoa1005372)
+
+[ROSE](https://www.nejm.org/doi/full/10.1056/nejmoa1901686)
+
+[EOLIA](https://www.nejm.org/doi/full/10.1056/NEJMoa1800385)
+
+<br>
+<b>Session 6: ARDS Deep-Dive</b>
+
+11.20.23, 1 p.m.
+
+Moderator: Aaron Mittel, MD
+
+TBD
+
+<br>
+<b>Session 7: Neuro EBM</b>
+
+12.4.23, 1 p.m.
+
+Moderator: Elvedin Lukovic, MD, PhD or Available ICU Faculty
+
+[Daily interruption of sedation](https://www.nejm.org/doi/full/10.1056/nejm200005183422002)
+
+[SLEAP](https://jamanetwork.com/journals/jama/fullarticle/1380160)
+
+[MIND-USA](https://www.nejm.org/doi/10.1056/NEJMoa1808217)
+
+[NONSEDA](https://www.nejm.org/doi/full/10.1056/NEJMoa1906759)
+
+[MENDS2](https://www.nejm.org/doi/full/10.1056/NEJMoa2024922)
+
+<br>
+<b>Session 8: Neuro Deep-Dive</b>
+
+12.18.23, 1 p.m.
+
+Moderator: Aaron Mittel, MD or Elvedin Lukovic, MD, PhD
+
+TBD
+
+<br>
+<b>Session 9: Renal Failure and Dialysis Timing EBM</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[AKIKI](https://www.nejm.org/doi/full/10.1056/NEJMoa1603017)
+
+[STARRT-AKI](https://www.nejm.org/doi/full/10.1056/nejmoa2000741)
+
+[IDEAL-ICU](https://www.nejm.org/doi/full/10.1056/NEJMoa1803213)
+
+[RENAL](https://www.nejm.org/doi/full/10.1056/nejmoa0902413)
+
+[AKIKI2](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(21)00350-0.pdf)
+
+<br>
+<b>Session 10: Renal Deep-Dive</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[PLUS](https://www.nejm.org/doi/full/10.1056/NEJMoa2114464)
+
+<br>
+<b>Session 11: Choice of IV Fluid Therapy EBM</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[SAFE](https://www.nejm.org/doi/full/10.1056/nejmoa040232)
+
+[SMART](https://www.nejm.org/doi/full/10.1056/nejmoa1711584)
+
+[CRISTAL](https://jamanetwork.com/journals/jama/fullarticle/1752245)
+
+[ALBIOS](https://www.nejm.org/doi/full/10.1056/nejmoa1305727)
+
+[HES vs saline](https://www.nejm.org/doi/full/10.1056/NEJMoa1209759)
+
+<br>
+<b>Session 12: Restrictive vs Liberal Deep-Dive</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[CLASSIC](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707)
+
+<br>
+<b>Session 13: Post-arrest Management</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[HACA](https://www.nejm.org/doi/full/10.1056/nejmoa012689)
+
+[Tracheal intubation and survival](https://jamanetwork.com/journals/jama/fullarticle/2598717)
+
+[TTM](https://www.nejm.org/doi/full/10.1056/NEJMoa1310519)
+
+[HYPERION](https://www.nejm.org/doi/10.1056/NEJMoa1906661)
+
+[TTM2](https://www.nejm.org/doi/full/10.1056/NEJMoa2100591)
+
+<br>
+<b>Session 14: Steroids for Distributive Shock</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[Annane Steroid Trial](https://jamanetwork.com/journals/jama/fullarticle/195197)
+
+[CORTICUS](https://www.nejm.org/doi/full/10.1056/NEJMoa071366)
+
+[ADRENAL](https://www.nejm.org/doi/full/10.1056/NEJMoa1705835)
+
+[APROCCHSS](https://www.nejm.org/doi/full/10.1056/NEJMoa1705716)
+
+[VITAMINS](https://jamanetwork.com/journals/jama/fullarticle/2759414)
+
+<br>
+<b>Session 15: Temperature Regulation Deep-Dive</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[CAPITAL CHILL](https://jamanetwork.com/journals/jama/fullarticle/2785263)
+
+<br>
+<b>Session 16: Vitamin C Deep-Dive</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[LOVIT (Vit C)](https://www.nejm.org/doi/full/10.1056/NEJMoa2200644)
+
+<br>
+<b>Session 17: Nutrition</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[TARGET](https://www.nejm.org/doi/full/10.1056/NEJMoa1811687)
+
+[PermiT](https://www.nejm.org/doi/full/10.1056/NEJMoa1502826)
+
+[EPANIC](https://www.nejm.org/doi/full/10.1056/NEJMoa1102662)
+
+[EDEN](https://jamanetwork.com/journals/jama/fullarticle/1355969)
+
+[Optimisation of energy provision with supplementary parenteral nutrition](https://www.sciencedirect.com/science/article/pii/S0140673612613518?via%3Dihub)
+
+
+<br>
+<b>Session 18: Stress Ulcer Prophylaxis Deep-Dive</b>
+
+TBD 2024
+
+Moderator: TBD
+
+[SUP-ICU](https://www.nejm.org/doi/full/10.1056/nejmoa1714919)
