@@ -130,3 +130,13 @@ _Better Living Through Extracorporeal Circuity_
 [Association of E/e' with CV Events Retrospective Cohort](https://pubmed.ncbi.nlm.nih.gov/36332804/)
 
 [Mild AI at time of LVAD](https://www.jtcvs.org/article/S0022-5223(20)31062-X/fulltext)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63NPTTVTEF');
+</script>

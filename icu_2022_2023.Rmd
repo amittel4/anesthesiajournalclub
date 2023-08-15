@@ -208,3 +208,13 @@ All sessions held in SICU Conference Room unless otherwise noted.
 [Patient and Hospital Factors Associated With Differences in Mortality Rates Among Black and White US Medicare Beneficiaries Hospitalized With COVID-19 Infection](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781182)
 
 [Temporal Trends in Critical Care Outcomes in U.S. Minority-Serving Hospitals](https://www.atsjournals.org/doi/10.1164/rccm.201903-0623OC)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63NPTTVTEF');
+</script>

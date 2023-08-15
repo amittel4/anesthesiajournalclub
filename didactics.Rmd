@@ -42,3 +42,13 @@ img {
 [Acute Management of Heart Failure 2020](https://docs.google.com/presentation/d/1aWmYuLZa-dpEcgzVs0De5G61uW-KUsNw/edit?usp=sharing&ouid=102079696541019610913&rtpof=true&sd=true)
 
 [Vasodilator Therapy in Septic Shock](https://docs.google.com/presentation/d/1dZbta14AVySTl1JdbeH0pVfsiTJNrlph/edit?usp=sharing&ouid=102079696541019610913&rtpof=true&sd=true)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63NPTTVTEF');
+</script>

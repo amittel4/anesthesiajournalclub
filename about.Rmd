@@ -9,3 +9,13 @@ This site is an educational project by Aaron Mittel, MD. I am an Assistant Profe
 <br>
 
 *Disclaimer*: This website does not provide medical advice. Material on this site is provided for reference and is intended for educational purposes only. I assume no duty to correct or update this website nor to resolve, clarify, or modify inconsistencies. You assume full responsibility for using the information contained herein. Always consult with a qualified, licensed physician or other clinician before making any medical decision.
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63NPTTVTEF');
+</script>

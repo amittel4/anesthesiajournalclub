@@ -252,3 +252,13 @@ TBD 2024
 Moderator: TBD
 
 [SUP-ICU](https://www.nejm.org/doi/full/10.1056/nejmoa1714919)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63NPTTVTEF');
+</script>

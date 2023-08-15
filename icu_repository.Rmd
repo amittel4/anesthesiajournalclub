@@ -283,3 +283,13 @@ _Pragmatic Approaches to Precise Problems_
 [Racial Variation in End-of-Life Intensive Care Use: A Race or Hospital Effect?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6773.2006.00598.x)
 
 [Genetic misdiagnoses and the potential for health disparities](https://www.nejm.org/doi/full/10.1056/NEJMsa1507092)
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63NPTTVTEF');
+</script>
