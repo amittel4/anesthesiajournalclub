@@ -52,9 +52,9 @@ Moderator: Elvedin Lukovic, MD, PhD
 
 [ARISE](https://www.nejm.org/doi/full/10.1056/NEJMoa1404380)
 
-[SEPSISPAM](https://www.nejm.org/doi/full/10.1056/NEJMoa1312173)
+[ANDROMEDA-SHOCK](https://jamanetwork.com/journals/jama/fullarticle/2724361)
 
-[65 Trial](https://jamanetwork.com/journals/jama/fullarticle/2761427)
+[Association Between US Norepinephrine Shortage and Mortality](https://jamanetwork.com/journals/jama/fullarticle/2612912)
 
 
 <br>
@@ -64,7 +64,7 @@ Moderator: Elvedin Lukovic, MD, PhD
 
 Moderator: Elvedin Lukovic, MD, PhD
 
-[ANDROMEDA-SHOCK](https://jamanetwork.com/journals/jama/fullarticle/2724361)
+[Carbapenems vs Noncarbapenem as Initial Antibiotic Therapy Against Sepsis: A Nationwide Observational Study](https://journals.lww.com/ccmjournal/fulltext/2023/09000/efficacy_of_carbapenems_compared_with.12.aspx)
 
 <br>
 <b>Session 5: ARDS</b>
@@ -94,7 +94,7 @@ Moderator: Aaron Mittel, MD or Elvedin Lukovic, MD, PhD or Available ICU Faculy
 
 Moderator: Aaron Mittel, MD
 
-TBD
+[Limiting Dynamic Driving Pressure in Patients Requiring Mechanical Ventilation](https://journals.lww.com/ccmjournal/fulltext/2023/07000/limiting_dynamic_driving_pressure_in_patients.2.aspx)
 
 <br>
 <b>Session 7: Neuro EBM</b>
@@ -113,6 +113,9 @@ Moderator: Elvedin Lukovic, MD, PhD or Available ICU Faculty
 
 [MENDS2](https://www.nejm.org/doi/full/10.1056/NEJMoa2024922)
 
+[AID-ICU (2023)](https://www.nejm.org/doi/full/10.1056/NEJMoa2211868)
+
+
 <br>
 <b>Session 8: Neuro Deep-Dive</b>
 
@@ -120,7 +123,9 @@ Moderator: Elvedin Lukovic, MD, PhD or Available ICU Faculty
 
 Moderator: Aaron Mittel, MD or Elvedin Lukovic, MD, PhD
 
-TBD
+[Trial of Endovascular Thrombectomy for Large Ischemic Strokes](https://www.nejm.org/doi/10.1056/NEJMoa2214403)
+
+[Trial of Endovascular Therapy for Acute Ischemic Stroke with Large Infarct](https://www.nejm.org/doi/full/10.1056/NEJMoa2213379)
 
 <br>
 <b>Session 9: Renal Failure and Dialysis Timing EBM</b>
@@ -146,33 +151,33 @@ TBD 2024
 
 Moderator: TBD
 
-[PLUS](https://www.nejm.org/doi/full/10.1056/NEJMoa2114464)
+[Lower vs Higher Fluid Volumes in Adult Patients With Sepsis: An Updated Systematic Review With Meta-Analysis and Trial Sequential Analysis](https://www.sciencedirect.com/science/article/pii/S0012369223006372?via%3Dihub)
 
 <br>
-<b>Session 11: Choice of IV Fluid Therapy EBM</b>
+<b>Session 11: Oxygenation Targets in the ICU EBM</b>
 
 TBD 2024
 
 Moderator: TBD
 
-[SAFE](https://www.nejm.org/doi/full/10.1056/nejmoa040232)
+[HOT-ICU](https://www.nejm.org/doi/10.1056/NEJMoa2032510)
 
-[SMART](https://www.nejm.org/doi/full/10.1056/nejmoa1711584)
+[Oxygen-ICU](https://jamanetwork.com/journals/jama/fullarticle/2565306)
 
-[CRISTAL](https://jamanetwork.com/journals/jama/fullarticle/1752245)
+[ICU ROX](https://www.nejm.org/doi/full/10.1056/NEJMoa1903297)
 
-[ALBIOS](https://www.nejm.org/doi/full/10.1056/nejmoa1305727)
+[BOX](https://www.nejm.org/doi/10.1056/NEJMoa2208686)
 
-[HES vs saline](https://www.nejm.org/doi/full/10.1056/NEJMoa1209759)
+[PILOT](https://www.nejm.org/doi/full/10.1056/NEJMoa2208415)
 
 <br>
-<b>Session 12: Restrictive vs Liberal Deep-Dive</b>
+<b>Session 12: Oxygenation Targets Deep-Dive</b>
 
 TBD 2024
 
 Moderator: TBD
 
-[CLASSIC](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707)
+[Conservative versus Liberal Oxygenation Targets in Intensive Care Unit Patients (ICONIC): A Randomized Clinical Trial](https://www.atsjournals.org/doi/abs/10.1164/rccm.202303-0560OC)
 
 <br>
 <b>Session 13: Post-arrest Management</b>
@@ -191,8 +196,15 @@ Moderator: TBD
 
 [TTM2](https://www.nejm.org/doi/full/10.1056/NEJMoa2100591)
 
+[CAPITAL CHILL](https://jamanetwork.com/journals/jama/fullarticle/2785263)
+
 <br>
-<b>Session 14: Steroids for Distributive Shock</b>
+<b>Session 14: Cardiac Arrest Deep-Dive</b>
+
+[Extracorporeal Life Support in Infarct-Related Cardiogenic Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa2307227)
+
+<br>
+<b>Session 15: Steroids for Distributive Shock EBM</b>
 
 TBD 2024
 
@@ -209,22 +221,13 @@ Moderator: TBD
 [VITAMINS](https://jamanetwork.com/journals/jama/fullarticle/2759414)
 
 <br>
-<b>Session 15: Temperature Regulation Deep-Dive</b>
+<b>Session 16: Endocrine Deep-Dive</b>
 
 TBD 2024
 
 Moderator: TBD
 
-[CAPITAL CHILL](https://jamanetwork.com/journals/jama/fullarticle/2785263)
-
-<br>
-<b>Session 16: Vitamin C Deep-Dive</b>
-
-TBD 2024
-
-Moderator: TBD
-
-[LOVIT (Vit C)](https://www.nejm.org/doi/full/10.1056/NEJMoa2200644)
+[Thiamine for Renal Protection in Septic Shock (TRPSS): A Randomized, Placebo-controlled, Clinical Trial](https://www.atsjournals.org/doi/full/10.1164/rccm.202301-0034OC)
 
 <br>
 <b>Session 17: Nutrition</b>
@@ -245,13 +248,13 @@ Moderator: TBD
 
 
 <br>
-<b>Session 18: Stress Ulcer Prophylaxis Deep-Dive</b>
+<b>Session 18: Nutrition Deep-Dive</b>
 
 TBD 2024
 
 Moderator: TBD
 
-[SUP-ICU](https://www.nejm.org/doi/full/10.1056/nejmoa1714919)
+[Early enteral nutrition is associated with improved outcomes in critically ill mechanically ventilated medical and surgical patients](https://www.sciencedirect.com/science/article/pii/S2405457723005338?via%3Dihub)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
