@@ -23,6 +23,8 @@ navbar:
         href: icu_2022_2023.html
     - text: "Periop Didactics"
       href: didactics.html
+    - text: "Full Text Instructions"
+      href: full_text.html
     - text: "About"
       href: about.html
     - icon: fa-github fa-lg
