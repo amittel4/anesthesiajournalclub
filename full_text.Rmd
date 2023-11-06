@@ -4,7 +4,7 @@ title: "Instructions for Accessing Full Text Journal Articles via Columbia Unive
 
 _Last updated November 3, 2023_
 
-Publications which have been supported by U.S. federal agencies (e.g. those which are funded by NIH grants) are freely accessible to the public. These can easily be found with simple searches, i.e. on [Google](https://www.google.com/) or [PubMed](https://pubmed.ncbi.nlm.nih.gov/). Publications which have been supported by private organization (e.g. those supported by individual university or industry sources) may require accessing journal content behind a paywall.
+Publications which have been supported by U.S. federal agencies (e.g. those which are funded by NIH grants) are freely accessible to the public. These can easily be found with simple searches, i.e. on [PubMed](https://pubmed.ncbi.nlm.nih.gov/). Publications which have been supported by private organizations (e.g. those supported by individual university or industry sources) may require accessing journal content behind a pay wall.
 
 Columbia University students and employees (for example, CUIMC Department of Anesthesiology staff and trainees) can access full-text versions of journal articles via the Columbia University [Augustus C. Long Health Sciences Library](https://library.cumc.columbia.edu/) as follows:
 
@@ -23,4 +23,4 @@ img {
 }
 </style>
 
-<img src="images/full_text_img.jpg" alt="full_text" style="width:20%;">
+<img src="images/full_text_img.jpg" alt="full_text" style="width:18%;">
