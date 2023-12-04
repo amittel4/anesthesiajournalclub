@@ -121,7 +121,7 @@ Moderator: Elvedin Lukovic, MD, PhD or Available ICU Faculty
 
 12.18.23, 1 p.m.
 
-Moderator: Aaron Mittel, MD or Elvedin Lukovic, MD, PhD
+Moderator: Elvedin Lukovic, MD, PhD
 
 [Trial of Endovascular Thrombectomy for Large Ischemic Strokes](https://www.nejm.org/doi/10.1056/NEJMoa2214403)
 
@@ -130,9 +130,9 @@ Moderator: Aaron Mittel, MD or Elvedin Lukovic, MD, PhD
 <br>
 <b>Session 9: Renal Failure and Dialysis Timing EBM</b>
 
-TBD 2024
+1.19.24, 1 p.m.
 
-Moderator: TBD
+Moderator: Elvedin Lukovic, MD, PhD
 
 [AKIKI](https://www.nejm.org/doi/full/10.1056/NEJMoa1603017)
 
@@ -147,18 +147,18 @@ Moderator: TBD
 <br>
 <b>Session 10: Renal Deep-Dive</b>
 
-TBD 2024
+1.24.24, 1 p.m.
 
-Moderator: TBD
+Moderator: Elvedin Lukovic, MD, PhD
 
 [Lower vs Higher Fluid Volumes in Adult Patients With Sepsis: An Updated Systematic Review With Meta-Analysis and Trial Sequential Analysis](https://www.sciencedirect.com/science/article/pii/S0012369223006372?via%3Dihub)
 
 <br>
 <b>Session 11: Oxygenation Targets in the ICU EBM</b>
 
-TBD 2024
+2.7.24, 1 p.m.
 
-Moderator: TBD
+Moderator: Aaron Mittel, MD, MSc
 
 [HOT-ICU](https://www.nejm.org/doi/10.1056/NEJMoa2032510)
 
@@ -173,18 +173,18 @@ Moderator: TBD
 <br>
 <b>Session 12: Oxygenation Targets Deep-Dive</b>
 
-TBD 2024
+2.28.24
 
-Moderator: TBD
+Moderator: Aaron Mittel, MD, MSc
 
 [Conservative versus Liberal Oxygenation Targets in Intensive Care Unit Patients (ICONIC): A Randomized Clinical Trial](https://www.atsjournals.org/doi/abs/10.1164/rccm.202303-0560OC)
 
 <br>
 <b>Session 13: Post-arrest Management</b>
 
-TBD 2024
+3.11.24
 
-Moderator: TBD
+Moderator: Elvedin Lukovic, MD, PhD
 
 [HACA](https://www.nejm.org/doi/full/10.1056/nejmoa012689)
 
@@ -201,14 +201,18 @@ Moderator: TBD
 <br>
 <b>Session 14: Cardiac Arrest Deep-Dive</b>
 
+3.27.24
+
+Moderator: Aaron Mittel, MD, MSc
+
 [Extracorporeal Life Support in Infarct-Related Cardiogenic Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa2307227)
 
 <br>
 <b>Session 15: Steroids for Distributive Shock EBM</b>
 
-TBD 2024
+4.10.24
 
-Moderator: TBD
+Moderator: Elvedin Lukovic, MD, PhD
 
 [Annane Steroid Trial](https://jamanetwork.com/journals/jama/fullarticle/195197)
 
@@ -223,16 +227,25 @@ Moderator: TBD
 <br>
 <b>Session 16: Endocrine Deep-Dive</b>
 
-TBD 2024
+4.24.24
 
-Moderator: TBD
+Moderator: Elvedin Lukovic, MD, PhD
 
 [Thiamine for Renal Protection in Septic Shock (TRPSS): A Randomized, Placebo-controlled, Clinical Trial](https://www.atsjournals.org/doi/full/10.1164/rccm.202301-0034OC)
 
 <br>
-<b>Session 17: Nutrition</b>
+<b>Session 17: Nutrition Deep-Dive</b>
 
-TBD 2024
+5.1.24
+
+Moderator: Aaron Mittel, MD, MSc
+
+[Early enteral nutrition is associated with improved outcomes in critically ill mechanically ventilated medical and surgical patients](https://www.sciencedirect.com/science/article/pii/S2405457723005338?via%3Dihub)
+
+<br>
+<b>Session 18: Nutrition</b>
+
+5.15.24
 
 Moderator: TBD
 
@@ -246,15 +259,15 @@ Moderator: TBD
 
 [Optimisation of energy provision with supplementary parenteral nutrition](https://www.sciencedirect.com/science/article/pii/S0140673612613518?via%3Dihub)
 
-
 <br>
-<b>Session 18: Nutrition Deep-Dive</b>
+<b>Session 19: Fellow-Selected Articles</b>
 
-TBD 2024
+6.13.24
 
-Moderator: TBD
+Moderator: Aaron Mittel, MD, MSc
 
-[Early enteral nutrition is associated with improved outcomes in critically ill mechanically ventilated medical and surgical patients](https://www.sciencedirect.com/science/article/pii/S2405457723005338?via%3Dihub)
+Articles TBD!
+
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
