@@ -43,6 +43,8 @@ img {
 
 [Vasodilator Therapy in Septic Shock](https://docs.google.com/presentation/d/1dZbta14AVySTl1JdbeH0pVfsiTJNrlph/edit?usp=sharing&ouid=102079696541019610913&rtpof=true&sd=true)
 
+[Burns, Poisoning, and Drowning - Perioperative Pathophysiology and Management](https://docs.google.com/presentation/d/1zKzRpVWhYoBqVLCwArJghcvsALpx8NCneDVFQwhYSRY/edit?usp=sharing)
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
 <script>
