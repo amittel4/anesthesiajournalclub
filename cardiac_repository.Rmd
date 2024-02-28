@@ -135,6 +135,13 @@ _Better Living Through Extracorporeal Circuity_
 [Mechanical Power and Postoperative Respiratory Failure: Multicenter Retrospective Cohort Study](https://pubs.asahq.org/anesthesiology/article/137/1/41/136245/Mechanical-Power-during-General-Anesthesia-and)
 
 <br>
+<b>Inflammation</b>
+
+[The Systemic Inflammatory Response to Cardiac Surgery: Implications for the Anesthesiologist](https://pubs.asahq.org/anesthesiology/article/97/1/215/40155/The-Systemic-Inflammatory-Response-to-Cardiac)
+
+[Phenotypes of CPB-induced Inflammatory Response](https://journals.lww.com/anesthesia-analgesia/fulltext/2023/03000/derivation_and_validation_of_clinical_phenotypes.13.aspx)
+
+<br>
 <b>Echocardiography</b>
 
 [Association of E/e' with CV Events Retrospective Cohort](https://pubmed.ncbi.nlm.nih.gov/36332804/)
