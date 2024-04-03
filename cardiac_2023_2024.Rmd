@@ -16,7 +16,7 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 [ESP Block for Cardiac Surgery - RCT, JCVA](https://www.sciencedirect.com/science/article/pii/S1053077018303835)
 
-[April 3, 2024]()
+[Normovolemic Hemodilution Does Not Reduce Allogeneic Red Blood Cell Transfusion in Cardiac Surgery: Propensity-Score Matched Study](https://www.jcvaonline.com/article/S1053-0770(23)00911-4/fulltext)
 
 [LVAD + concurrent valve procedure - observational](https://www.jtcvs.org/article/S0022-5223(22)00498-6/fulltext)
 
