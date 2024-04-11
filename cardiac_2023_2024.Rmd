@@ -20,7 +20,7 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 [LVAD + concurrent valve procedure - observational](https://www.jtcvs.org/article/S0022-5223(22)00498-6/fulltext)
 
-[April 17, 2024]()
+[Platelet Transfusion in Cardiac Surgery: An Entropy-Balanced, Weighted, Multicenter Analysis](April 17, 2024)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
