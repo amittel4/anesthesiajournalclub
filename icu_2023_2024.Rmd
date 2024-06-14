@@ -264,9 +264,9 @@ Moderator: Aaron Mittel, MD, MSc
 
 6.13.24
 
-Moderator: Aaron Mittel, MD, MSc
+Moderator: Aaron Mittel, MD, MSc + ICU Fellows
 
-Articles TBD!
+[Prevalence and Survival of Prolonged VV ECMO for ARDS: An Analysis of the ELSO Registry](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11093496/)
 
 
 <!-- Google tag (gtag.js) -->
