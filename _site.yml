@@ -7,6 +7,8 @@ navbar:
       menu:
       - text: High Impact Articles
         href: cardiac_repository.html
+      - text: 2024 - 2025
+        href: cardiac_2024_2025.html
       - text: 2023 - 2024
         href: cardiac_2023_2024.html
       - text: 2022 - 2023
@@ -17,6 +19,8 @@ navbar:
       menu:
       - text: High Impact Articles
         href: icu_repository.html
+      - text: 2024 - 2025
+        href: icu_2024_2025.html
       - text: 2023 - 2024
         href: icu_2023_2024.html
       - text: 2022 - 2023
