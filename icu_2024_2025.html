@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Critical Care Medicine</title>
+
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Home</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    Cardiac
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="cardiac_repository.html">High Impact Articles</a>
+    </li>
+    <li>
+      <a href="cardiac_2023_2024.html">2023 - 2024</a>
+    </li>
+    <li>
+      <a href="cardiac_2022_2023.html">2022 - 2023</a>
+    </li>
+    <li>
+      <a href="cardiac_2021_2022.html">2021 - 2022</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    ICU
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="icu_repository.html">High Impact Articles</a>
+    </li>
+    <li>
+      <a href="icu_2023_2024.html">2023 - 2024</a>
+    </li>
+    <li>
+      <a href="icu_2022_2023.html">2022 - 2023</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="didactics.html">Periop Didactics</a>
+</li>
+<li>
+  <a href="full_text.html">Full Text Instructions</a>
+</li>
+<li>
+  <a href="about.html">About</a>
+</li>
+<li>
+  <a href="http://github.com/amittel4/">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Critical Care Medicine</h1>
+
+</div>
+
+
+<div id="section" class="section level1">
+<h1>2024 - 2025</h1>
+<p>All sessions held in SICU Conference Room unless otherwise noted.</p>
+<p><em>Journal club activities will be held on Wednesday afternoons
+throughout the Academic Year (August 1, 2024 through July 30, 2025).
+These will be ~90 minute sessions structured as outlined below.</em></p>
+<p><br></p>
+<p><strong>EBM Review (45 min)</strong>: review of papers that form the
+evidence base for our specialty.</p>
+<p><br> <em>During EBM review, fellows will present assigned articles to
+the group. Fellows are expected to read ALL papers before each session.
+However, one fellow will “present” the paper in 5-6 min, with focus on
+broad reasons for the study, major methodologic points, abbreviated
+results, and potential to guide clinical practice.</em></p>
+<p><br> <em>15 min break</em></p>
+<p><br> <strong>Deep Dive (30 min)</strong>: detailed inspection of very
+recent paper with POTENTIAL to change future practice.</p>
+<p><br> <em>During “Deep Dive”, fellow and faculty will collectively
+discuss 1-2 articles in significant detail. This portion of journal club
+will focus on nuances of study design, including data analysis and
+interpretation of results. The goal of “Deep Dive” is to build fellows’
+skills for future study interpretation (i.e. beyond
+fellowship).</em></p>
+<p><br> <b>Session 1: Introduction + Healthcare Disparities</b></p>
+<p>Mon 8.5.24, 1 p.m.</p>
+<p>Moderator: Elvedin Lukovic, MD, PhD</p>
+<p>Guest Speaker: Stephanie Cook, DrPH, MPH; Director, Attachment and
+Health Disparities Lab; School of Global Public Health, New York
+University</p>
+<p><br> <b>Session 2: Sepsis</b></p>
+<p>Wed 9.25.24, 1 p.m.</p>
+<p>Moderator: ***</p>
+<p><em>EBM papers:</em></p>
+<p><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa010307">EGDT
+(Rivers)</a></p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/25952825/">ProCESS, Promise,
+ARISE meta-analysis</a></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/2724361">ANDROMEDA-SHOCK</a></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/2612912">Association
+Between US Norepinephrine Shortage and Mortality</a></p>
+<p><em>Deep Dive:</em></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/2819971">BLING
+III RCT</a></p>
+<p><br> <b>Session 3: Respiratory Failure</b></p>
+<p>Wed 10.23.24, 1 p.m.</p>
+<p>Moderator: ***</p>
+<p><em>EBM papers:</em></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/nejm200005043421801">ARMA</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa032193">ALVEOLI</a></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/2725206">EPVent-2</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/nejmoa1214103">PROSEVA</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/nejmoa1005372">ACURASYS</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/nejmoa1901686">ROSE</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa1800385">EOLIA</a></p>
+<p><em>Deep Dive:</em></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/2812529">PRONECMO</a></p>
+<p><br> <b>Session 4: Neuro</b></p>
+<p>Wed 11.20.24, 1 p.m.</p>
+<p>Moderator: ***</p>
+<p><em>EBM papers:</em></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/nejm200005183422002">Daily
+interruption of sedation</a></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/1380160">SLEAP</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa1906759">NONSEDA</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa2211868">AID-ICU</a></p>
+<p><a
+href="https://www.nejm.org/doi/10.1056/NEJMoa1808217">MIND-USA</a></p>
+<p><a
+href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2814118">Antipsychotics
+and the QTc Interval During Delirium in the ICU: Secondary
+Analysis</a></p>
+<p><em>Deep Dive:</em></p>
+<p><a href="https://www.nejm.org/doi/10.1056/NEJMoa2402980">TRACE
+III</a></p>
+<p><a
+href="https://www.nejm.org/doi/10.1056/NEJMoa2400314">RAISE</a></p>
+<p><br> <b>Session 5: Renal Failure</b></p>
+<p>Wed 1.22.25, 1 p.m.</p>
+<p>Moderator: ***</p>
+<p><em>EBM papers:</em></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa1603017">AKIKI</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/nejmoa2000741">STARRT-AKI</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa1803213">IDEAL-ICU</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/nejmoa0902413">RENAL</a></p>
+<p><a
+href="https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(21)00350-0.pdf">AKIKI2</a></p>
+<p><em>Deep Dive:</em></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa2403769">PROTECTION</a></p>
+<p><br> <b>Session 6: Urgent Situations</b></p>
+<p>Wed 2.26.25, 1 p.m.</p>
+<p>Moderator: ***</p>
+<p><em>EBM papers:</em></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/2598717">Tracheal
+intubation and survival</a></p>
+<p><a
+href="https://www.nejm.org/doi/10.1056/NEJMoa1906661">HYPERION</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa2026845">DOREMI</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa2301601">DEVICE</a></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/2816267">Collaborative
+VLS</a></p>
+<p><em>Deep Dive:</em></p>
+<p><a
+href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2804042">Association
+of Dexmedetomidine With New-Onset Atrial Fibrillation in Patients With
+Critical Illness</a></p>
+<p><br> <b>Session 7: Mechanical Circulatory Support</b></p>
+<p>Wed 3.26.24</p>
+<p>Moderator: ***</p>
+<p><em>EBM papers:</em></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa2307227">ECLS-SHOCK</a></p>
+<p><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa1208410">IABP
+for Cardiogenic Shock</a></p>
+<p><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2204511">eCPR
+for OHCA</a></p>
+<p><a
+href="https://www.thelancet.com/article/S0140-6736(20)32338-2/fulltext">ARREST</a></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/279630">MOMENTUM
+3, Five-year outcomes</a></p>
+<p><em>Deep Dive:</em></p>
+<p><a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2312572">DanGer
+Shock</a></p>
+<p><br> <b>Session 8: Steroids for Distributive Shock</b></p>
+<p>Wed 4.16.25, 1 p.m.</p>
+<p>Moderator: ***</p>
+<p><em>EBM papers:</em></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/195197">Annane
+Steroid Trial</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa071366">CORTICUS</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa1705835">ADRENAL</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa1705716">APROCCHSS</a></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/2759414">VITAMINS</a></p>
+<p><em>Deep Dive:</em></p>
+<p><a
+href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2802801">Comparative
+Effectiveness of Fludrocortisone + Hydrocortisone vs Hydrocortisone
+Alone Among Patients With Septic Shock</a></p>
+<p><a
+href="https://www.atsjournals.org/doi/abs/10.1164/rccm.202310-1785OC">Fludrocortisone
++ Hydrocortisone vs Hydrocortisone Alone in Septic Shock: Systematic
+Review and Network Meta-Analysis</a></p>
+<p><br> <b>Session 9: Nutrition/GI</b></p>
+<p>Wed 5.21.25, 1 p.m.</p>
+<p>Moderator: David Wang, MD</p>
+<p><em>EBM papers:</em></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa1811687">TARGET</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa1502826">PermiT</a></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa1102662">EPANIC</a></p>
+<p><a
+href="https://jamanetwork.com/journals/jama/fullarticle/1355969">EDEN</a></p>
+<p><a
+href="https://www.sciencedirect.com/science/article/pii/S0140673612613518?via%3Dihub">Optimisation
+of energy provision with supplementary parenteral nutrition</a></p>
+<p><a
+href="https://evidence.nejm.org/doi/10.1056/EVIDoa2400082">Patient-Level
+Meta-Analysis of Intensive Glucose Control</a></p>
+<p><em>Deep Dive:</em></p>
+<p><a
+href="https://www.nejm.org/doi/full/10.1056/NEJMoa2404245">REVISE</a></p>
+<p><br> <b>Session 10: Fellow-Selected Articles</b></p>
+<p>Wed 6.11.25, 1 p.m.</p>
+<p>Moderator: TBD</p>
+<p>Content TBD!</p>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63NPTTVTEF');
+</script>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

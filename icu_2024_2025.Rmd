@@ -1,0 +1,248 @@
+---
+title: "Critical Care Medicine"
+---
+
+# 2024 - 2025
+
+All sessions held in SICU Conference Room unless otherwise noted.
+
+_Journal club activities will be held on Wednesday afternoons throughout the Academic Year (August 1, 2024 through July 30, 2025). These will be ~90 minute sessions structured as outlined below._
+
+<br>
+
+**EBM Review (45 min)**: review of papers that form the evidence base for our specialty.
+
+<br>
+_During EBM review, fellows will present assigned articles to the group. Fellows are expected to read ALL papers before each session. However, one fellow will "present" the paper in 5-6 min, with focus on broad reasons for the study, major methodologic points, abbreviated results, and potential to guide clinical practice._
+
+<br>
+_15 min break_
+
+<br>
+**Deep Dive (30 min)**: detailed inspection of very recent paper with POTENTIAL to change future practice.
+
+<br>
+_During "Deep Dive", fellow and faculty will collectively discuss 1-2 articles in significant detail. This portion of journal club will focus on nuances of study design, including data analysis and interpretation of results. The goal of "Deep Dive" is to build fellows' skills for future study interpretation (i.e. beyond fellowship)._
+
+<br>
+<b>Session 1: Introduction + Healthcare Disparities</b>
+
+Mon 8.5.24, 1 p.m.
+
+Moderator: Elvedin Lukovic, MD, PhD
+
+Guest Speaker: Stephanie Cook, DrPH, MPH; Director, Attachment and Health Disparities Lab; School of Global Public Health, New York University
+
+<br>
+<b>Session 2: Sepsis</b>
+
+Wed 9.25.24, 1 p.m.
+
+Moderator: ***
+
+_EBM papers:_
+
+[EGDT (Rivers)](https://www.nejm.org/doi/full/10.1056/NEJMoa010307)
+
+[ProCESS, Promise, ARISE meta-analysis](https://pubmed.ncbi.nlm.nih.gov/25952825/)
+
+[ANDROMEDA-SHOCK](https://jamanetwork.com/journals/jama/fullarticle/2724361)
+
+[Association Between US Norepinephrine Shortage and Mortality](https://jamanetwork.com/journals/jama/fullarticle/2612912)
+
+_Deep Dive:_
+
+[BLING III RCT](https://jamanetwork.com/journals/jama/fullarticle/2819971)
+
+<br>
+<b>Session 3: Respiratory Failure</b>
+
+Wed 10.23.24, 1 p.m.
+
+Moderator: ***
+
+_EBM papers:_
+
+[ARMA](https://www.nejm.org/doi/full/10.1056/nejm200005043421801)
+
+[ALVEOLI](https://www.nejm.org/doi/full/10.1056/NEJMoa032193)
+
+[EPVent-2](https://jamanetwork.com/journals/jama/fullarticle/2725206)
+
+[PROSEVA](https://www.nejm.org/doi/full/10.1056/nejmoa1214103)
+
+[ACURASYS](https://www.nejm.org/doi/full/10.1056/nejmoa1005372)
+
+[ROSE](https://www.nejm.org/doi/full/10.1056/nejmoa1901686)
+
+[EOLIA](https://www.nejm.org/doi/full/10.1056/NEJMoa1800385)
+
+_Deep Dive:_
+
+[PRONECMO](https://jamanetwork.com/journals/jama/fullarticle/2812529)
+
+<br>
+<b>Session 4: Neuro</b>
+
+Wed 11.20.24, 1 p.m.
+
+Moderator: ***
+
+_EBM papers:_
+
+[Daily interruption of sedation](https://www.nejm.org/doi/full/10.1056/nejm200005183422002)
+
+[SLEAP](https://jamanetwork.com/journals/jama/fullarticle/1380160)
+
+[NONSEDA](https://www.nejm.org/doi/full/10.1056/NEJMoa1906759)
+
+[AID-ICU](https://www.nejm.org/doi/full/10.1056/NEJMoa2211868)
+
+[MIND-USA](https://www.nejm.org/doi/10.1056/NEJMoa1808217)
+
+[Antipsychotics and the QTc Interval During Delirium in the ICU: Secondary Analysis](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2814118)
+
+_Deep Dive:_
+
+[TRACE III](https://www.nejm.org/doi/10.1056/NEJMoa2402980)
+
+[RAISE](https://www.nejm.org/doi/10.1056/NEJMoa2400314)
+
+<br>
+<b>Session 5: Renal Failure</b>
+
+Wed 1.22.25, 1 p.m.
+
+Moderator: ***
+
+_EBM papers:_
+
+[AKIKI](https://www.nejm.org/doi/full/10.1056/NEJMoa1603017)
+
+[STARRT-AKI](https://www.nejm.org/doi/full/10.1056/nejmoa2000741)
+
+[IDEAL-ICU](https://www.nejm.org/doi/full/10.1056/NEJMoa1803213)
+
+[RENAL](https://www.nejm.org/doi/full/10.1056/nejmoa0902413)
+
+[AKIKI2](https://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(21)00350-0.pdf)
+
+_Deep Dive:_
+
+[PROTECTION](https://www.nejm.org/doi/full/10.1056/NEJMoa2403769)
+
+<br>
+<b>Session 6: Urgent Situations</b>
+
+Wed 2.26.25, 1 p.m.
+
+Moderator: ***
+
+_EBM papers:_
+
+[Tracheal intubation and survival](https://jamanetwork.com/journals/jama/fullarticle/2598717)
+
+[HYPERION](https://www.nejm.org/doi/10.1056/NEJMoa1906661)
+
+[DOREMI](https://www.nejm.org/doi/full/10.1056/NEJMoa2026845)
+
+[DEVICE](https://www.nejm.org/doi/full/10.1056/NEJMoa2301601)
+
+[Collaborative VLS](https://jamanetwork.com/journals/jama/fullarticle/2816267)
+
+_Deep Dive:_
+
+[Association of Dexmedetomidine With New-Onset Atrial Fibrillation in Patients With Critical Illness](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2804042)
+
+<br>
+<b>Session 7: Mechanical Circulatory Support</b>
+
+Wed 3.26.24
+
+Moderator: ***
+
+_EBM papers:_
+
+[ECLS-SHOCK](https://www.nejm.org/doi/full/10.1056/NEJMoa2307227)
+
+[IABP for Cardiogenic Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa1208410)
+
+[eCPR for OHCA](https://www.nejm.org/doi/full/10.1056/NEJMoa2204511)
+
+[ARREST](https://www.thelancet.com/article/S0140-6736(20)32338-2/fulltext)
+
+[MOMENTUM 3, Five-year outcomes](https://jamanetwork.com/journals/jama/fullarticle/279630)
+
+_Deep Dive:_
+
+[DanGer Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa2312572)
+
+<br>
+<b>Session 8: Steroids for Distributive Shock</b>
+
+Wed 4.16.25, 1 p.m.
+
+Moderator: ***
+
+_EBM papers:_
+
+[Annane Steroid Trial](https://jamanetwork.com/journals/jama/fullarticle/195197)
+
+[CORTICUS](https://www.nejm.org/doi/full/10.1056/NEJMoa071366)
+
+[ADRENAL](https://www.nejm.org/doi/full/10.1056/NEJMoa1705835)
+
+[APROCCHSS](https://www.nejm.org/doi/full/10.1056/NEJMoa1705716)
+
+[VITAMINS](https://jamanetwork.com/journals/jama/fullarticle/2759414)
+
+_Deep Dive:_
+
+[Comparative Effectiveness of Fludrocortisone + Hydrocortisone vs Hydrocortisone Alone Among Patients With Septic Shock](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2802801)
+
+[Fludrocortisone + Hydrocortisone vs Hydrocortisone Alone in Septic Shock: Systematic Review and Network Meta-Analysis](https://www.atsjournals.org/doi/abs/10.1164/rccm.202310-1785OC)
+
+<br>
+<b>Session 9: Nutrition/GI</b>
+
+Wed 5.21.25, 1 p.m.
+
+Moderator: David Wang, MD
+
+_EBM papers:_
+
+[TARGET](https://www.nejm.org/doi/full/10.1056/NEJMoa1811687)
+
+[PermiT](https://www.nejm.org/doi/full/10.1056/NEJMoa1502826)
+
+[EPANIC](https://www.nejm.org/doi/full/10.1056/NEJMoa1102662)
+
+[EDEN](https://jamanetwork.com/journals/jama/fullarticle/1355969)
+
+[Optimisation of energy provision with supplementary parenteral nutrition](https://www.sciencedirect.com/science/article/pii/S0140673612613518?via%3Dihub)
+
+[Patient-Level Meta-Analysis of Intensive Glucose Control](https://evidence.nejm.org/doi/10.1056/EVIDoa2400082)
+
+_Deep Dive:_
+
+[REVISE](https://www.nejm.org/doi/full/10.1056/NEJMoa2404245)
+
+<br>
+<b>Session 10: Fellow-Selected Articles</b>
+
+Wed 6.11.25, 1 p.m.
+
+Moderator: TBD
+
+Content TBD!
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-63NPTTVTEF');
+</script>
