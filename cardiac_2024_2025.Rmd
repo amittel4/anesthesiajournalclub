@@ -4,20 +4,20 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 # 2024 - 2025
 
-[Fung; Sep 30, 2024]()
+[Schramm; Sep 11, 2024]()
 
-[Tang; Oct 28, 2024]()
+[Chen; Oct 9, 2024]()
 
-[Zecca; Nov 25, 2024]()
+[Rui; Oct 23, 2024]()***
 
-[Shukla; Jan 6, 2025]()
+[Drubin; Nov 6, 2024]()
 
-[Han; Jan 27, 2025]()
+[Tang; Mar 5, 2025]()
 
-[Rui; Feb 24, 2025]()
+[Zecca; Mar 12, 2025]()
 
-[Schramm; Mar 17, 2025]()
+[Shukla; Apr 9, 2025]()
 
-[Chen; Apr 21, 2025]()
+[Fung; Apr 23, 2025]()
 
-[Drubin; May 19, 2025]()
+[Han; May 7, 2025]()
