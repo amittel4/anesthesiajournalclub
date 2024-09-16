@@ -5,6 +5,11 @@ title: "Adult Cardiothoracic Anesthesiology"
 # 2024 - 2025
 
 [PROTECTION - RCT Amino Acids for AKI in Cardiac Surgery; NEJM 2024](https://www.nejm.org/doi/full/10.1056/NEJMoa2403769)
+__Clinical Question__: In elective cardiac surgeries requiring CPB, does an IV infusion of amino acids (isopuramin 10%) therapy at the time of surgery compared to placebo (LR) decrease the incidence of postoperative AKI in the first week?
+
+__Methods + Results__: Multicenter RCT; The investigators measured baseline creatinine and defined a reasonable primary outcome, postoperative (0-7 days) AKI by KDIGO criteria. AKI had developed in 474 patients in the amino acid group (26.9%) and in 555 patients in the placebo group (31.7%) (RR = 0.85; 95% CI [0.77 to 0.94]; P=0.002). There were no differences in secondary outcome measures (Hospital and ICU LOS, RRT initiation, MV duration).
+
+__Take Away__: IV amino acids may reduce the risk of AKI after elective cardiac surgery. The study was well-designed and executed, but had limitations in patient demographics (external generalizability) and lack of additional indicators of AKI.
 
 [Chen; Oct 9, 2024]()
 
