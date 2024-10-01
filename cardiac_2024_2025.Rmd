@@ -13,26 +13,48 @@ title: "Adult Cardiothoracic Anesthesiology"
 * __Take Away__: IV amino acids may reduce the risk of AKI after elective cardiac surgery. The study was well-designed and executed, but had limitations in patient demographics (external generalizability) and lack of additional indicators of AKI.
 
 
-[Chen; Oct 9, 2024]()
+<br>
 
+[ATACAS RCT: Stopping vs. Continuing Aspirin before Coronary Artery Surgery; NEJM 2016](https://www.nejm.org/doi/full/10.1056/NEJMoa1507688)
+
+* __Clinical Question__: 
+
+* __Methods + Results__:
+
+* __Take Away__:
+
+
+<br>
 
 [Rui; Oct 30, 2024]()
 
 
+<br>
+
 [Drubin; Nov 6, 2024]()
 
+
+<br>
 
 [Zecca; Jan 15, 2025]()
 
 
+<br>
+
 [Shukla; Jan 29, 2025]()
 
+
+<br>
 
 [Tang; Apr 9, 2025]()
 
 
+<br>
+
 [Fung; Apr 23, 2025]()
 
+
+<br>
 
 [Han; May 7, 2025]()
 
