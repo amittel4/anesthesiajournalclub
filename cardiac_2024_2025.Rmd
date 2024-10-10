@@ -17,17 +17,22 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 [ATACAS RCT: Stopping vs. Continuing Aspirin before Coronary Artery Surgery; NEJM 2016](https://www.nejm.org/doi/full/10.1056/NEJMoa1507688)
 
-* __Clinical Question__: 
+* __Clinical Question__: Does taking aspirin before coronary artery bypass surgery reduce the risk of death or thrombotic complications (nonfatal myocardial infarction, stroke, pulmonary embolism, renal failure, or bowel infarction)?
 
-* __Methods + Results__:
+* __Methods + Results__: After patients were randomized to aspirin or placebo and monitored for 30 days post coronary artery bypass surgery, the data showed that there were no significant differences in the primary outcome (death or thrombotic events) or secondary outcomes (death, myocardial infarction, renal failure, pulmonary embolism, bowel infarction, re-op for hemorrhage, cardiac tamponade).
 
-* __Take Away__:
+* __Take Away__: Aspirin is safe to use in the perioperative period of coronary artery bypass surgery.
 
 
 <br>
 
 [Rui; Oct 30, 2024]()
 
+* __Clinical Question__: 
+
+* __Methods + Results__:
+
+* __Take Away__:
 
 <br>
 
