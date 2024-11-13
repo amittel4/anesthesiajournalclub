@@ -38,11 +38,11 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 [Extracorporeal Blood Purification and AKI - SIRAKIO2 RCT; JAMA 2024](https://jamanetwork.com/journals/jama/fullarticle/2824929)
 
-* __Clinical Question__: 
+* __Clinical Question__: Does extracorporeal blood purification (EBP) during cardiopulmonary bypass (CPB) reduce the risk of acute kidney injury (AKI) after nonemergent cardiac surgery?
 
-* __Methods + Results__:
+* __Methods + Results__: In this double-blinded RCT, the investigators compared the rate of AKI by KDIGO criteria among cardiac surgery patients who underwent EBP through an acrylonitirile-sodium methallylsulfonate/polyethylenimine membrane during CPB vs those who underwent CPB only, finding a statistically significant reduction in AKI in the EBP cohort (28.4%,  CI 21.7-35.8% vs 39.7%, CI 32.3-47.3, P = 0.03).
 
-* __Take Away__:
+* __Take Away__: This study demonstrates that EBP may reduce the risk of AKI after CPB, although the study is not sufficiently powered to determine whether secondary clinical outcomes are changed as a result, whether the outcome was due to the use of an EBP membrane vs the use of CRRT in which the membrane was inserted, or whether the use of  EBP is economically justified for the clinical effect size.
 
 <br>
 
