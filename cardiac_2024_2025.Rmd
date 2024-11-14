@@ -28,11 +28,12 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 [Dexamethasone for Cardiac Surgery: Practice Preference Comparative Effectiveness Trial; Anesthesiology 2024](https://pubs.asahq.org/anesthesiology/article/141/5/859/141590/Dexamethasone-for-Cardiac-Surgery-A-Practice)
 
-* __Clinical Question__: 
+* __Clinical Question__: In adults under 75 years old undergoing elective cardiac surgery requiring CPB, does administration of high dose dexamethasone increase the number of home days after surgery and decrease the risk of serious complications?
 
-* __Methods + Results__:
+* __Methods + Results__: Patients were randomized prior to consent 2:1 favoring site standard of care, and followed for 30 days. In the treatment group, patients were administered one dose of dexamethasone 1mg/kg up (up to 100mg). There was no significant difference in the number of days alive and at home after surgery.
 
-* __Take Away__:
+* __Take Away__: High dose dexamethasone may decrease ICU LOS, but does not increase the number of alive and home days, nor significantly affect the risk of serious complications, after cardiac surgery.
+
 
 <br>
 
