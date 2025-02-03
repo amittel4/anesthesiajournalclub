@@ -59,11 +59,11 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 [Safety and efficacy of colchicine for prevention of postop a.fib.in patients undergoing cardiac surgery: meta-analysis; EP Europace 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10318383/)
 
-* __Clinical Question__: 
+* __Clinical Question__: Is colchicine safe and effective at preventing postoperative atrial fibrillation after cardiac surgery when compared to placebo?
 
-* __Methods + Results__:
+* __Methods + Results__: This is a systematic literature review and meta-analysis of eight RCTs that showed, in comparison to placebo,  colchicine administration reduced risk of postoperative atrial fibrillation (RR 0.70, 95% CI [0.59 - 0.82], I^2 =0%, high certainty evidence), conferred a higher risk of nausea, vomiting, and diarrhea (RR 2.20, 95% CI [1.38 - 3.51], I^2 = 55%, high certainty evidence), and had a higher but non-significant difference in rate of drug discontinuation (RR 1.33, 95% CI [0.93 - 1.89], I^2 =0%, moderate quality evidence).
 
-* __Take Away__:
+* __Take Away__: Peri-operative colchicine administration reduces post-operative atrial fibrillation in cardiac surgery patients, but use may be limited by a lack of data on effective dosing, duration, and comparison to other antiarrhythmic agents.
 
 <br>
 
