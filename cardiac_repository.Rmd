@@ -132,6 +132,8 @@ _Better Living Through Extracorporeal Circuity_
 
 [Driving Pressure in Thoracic Surgery](https://pubs.asahq.org/anesthesiology/article/130/3/385/19222/Driving-Pressure-during-Thoracic-Surgery)
 
+[iPROVE-OLV: Individualised Open-Lung ventilation during OLV Multicenter RCT](https://pubmed.ncbi.nlm.nih.gov/38065200/)
+
 [Driving Pressure in Abdominal Surgery](https://journals.lww.com/anesthesia-analgesia/Fulltext/2021/11000/Driving_Pressure_Guided_Individualized_Positive.18.aspx)
 
 [Mechanical Power and Postoperative Respiratory Failure: Multicenter Retrospective Cohort Study](https://pubs.asahq.org/anesthesiology/article/137/1/41/136245/Mechanical-Power-during-General-Anesthesia-and)
