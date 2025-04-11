@@ -158,30 +158,7 @@ _Deep Dive:_
 [Association of Dexmedetomidine With New-Onset Atrial Fibrillation in Patients With Critical Illness](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2804042)
 
 <br>
-<b>Session 7: Mechanical Circulatory Support</b>
-
-Wed 4.16.25
-
-Moderator: Elvedin Lukovic, MD, PhD
-
-_EBM papers:_
-
-[ECLS-SHOCK](https://www.nejm.org/doi/full/10.1056/NEJMoa2307227)
-
-[IABP for Cardiogenic Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa1208410)
-
-[eCPR for OHCA](https://www.nejm.org/doi/full/10.1056/NEJMoa2204511)
-
-[ARREST](https://www.thelancet.com/article/S0140-6736(20)32338-2/fulltext)
-
-[MOMENTUM 3, Five-year outcomes](https://jamanetwork.com/journals/jama/fullarticle/2796306)
-
-_Deep Dive:_
-
-[DanGer Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa2312572)
-
-<br>
-<b>Session 8: Steroids for Distributive Shock</b>
+<b>Session 7: Steroids for Distributive Shock</b>
 
 Wed 5.7.25, 1 p.m.
 
@@ -206,7 +183,7 @@ _Deep Dive:_
 [Fludrocortisone + Hydrocortisone vs Hydrocortisone Alone in Septic Shock: Systematic Review and Network Meta-Analysis](https://www.atsjournals.org/doi/abs/10.1164/rccm.202310-1785OC)
 
 <br>
-<b>Session 9: Nutrition/GI</b>
+<b>Session 8: Nutrition/GI</b>
 
 Wed 6.11.25, 1 p.m.
 
@@ -231,13 +208,27 @@ _Deep Dive:_
 [REVISE](https://www.nejm.org/doi/full/10.1056/NEJMoa2404245)
 
 <br>
-<b>Session 10: Fellow-Selected Articles</b>
+<b>Session 9: Mechanical Circulatory Support</b>
 
-Wed 7.2.25, 1 p.m.
+Wed 7.9.25
 
-Moderator: TBD
+Moderator: ***
 
-Content TBD!
+_EBM papers:_
+
+[ECLS-SHOCK](https://www.nejm.org/doi/full/10.1056/NEJMoa2307227)
+
+[IABP for Cardiogenic Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa1208410)
+
+[eCPR for OHCA](https://www.nejm.org/doi/full/10.1056/NEJMoa2204511)
+
+[ARREST](https://www.thelancet.com/article/S0140-6736(20)32338-2/fulltext)
+
+[MOMENTUM 3, Five-year outcomes](https://jamanetwork.com/journals/jama/fullarticle/2796306)
+
+_Deep Dive:_
+
+[DanGer Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa2312572)
 
 
 <!-- Google tag (gtag.js) -->
