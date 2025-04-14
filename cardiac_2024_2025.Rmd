@@ -69,11 +69,11 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 [FARES-II: Prothrombin Complex Concentrate vs Frozen Plasma for Coagulopathic Bleeding in Cardiac Surgery: FARES-II](https://jamanetwork.com/journals/jama/fullarticle/2832096?resultClick=1)
 
-* __Clinical Question__: 
+* __Clinical Question__: Is PCC (1500 IU for ≤60 kg; 2000 IU for >60 kg) noninferior and/or superior to FFP (3 U for ≤60 kg; 4 U for >60 kg) in achieving effective hemostasis in patients who have coagulopathic bleeding while undergoing cardiac surgery?
 
-* __Methods + Results__:
+* __Methods + Results__: This unblinded randomized noninferiority trial involving 420 patients from centers in the US and Canada found that patients treated with PCC had effective hemostasis in 77.9% of cases vs. 60.4% of cases treated with FFP (difference, 17.6%; 95% CI, 8.7%-26.4%; P < .001); PCC treated patients also received fewer RBC, platelet, and non-investigational FFP transfusions, with fewer patients from the PCC group experiencing serious adverse events and AKI.
 
-* __Take Away__:
+* __Take Away__: PCC is safe and superior to FFP in achieving hemostasis and can decrease transfusion requirements in patients who require coagulation factor repletion during cardiac surgery.
 
 <br>
 
