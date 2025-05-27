@@ -79,11 +79,11 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 [B-FREE: BZD-Free Cardiac Anesthesia for Reduction of Postoperative Delirium; JAMA 2025](https://jamanetwork.com/journals/jamasurgery/fullarticle/2829514)
 
-* __Clinical Question__: 
+* __Clinical Question__: Does an institutional policy of restricted intraoperative benzodiazepine administration during cardiac surgery reduce the incidence of postoperative delirium?
 
-* __Methods + Results__:
+* __Methods + Results__: This was a multiperiod, patient- and assessor-blinded, cluster randomized crossover trial at 20 North American cardiac surgical centers (total of 19,768 patients) that evaluated the incidence of postoperative delirium, as detected in routine care up to 72 hrs after surgery, when an institutional policy of restrictive benzodiazepine use (no benzodiazepines) or liberal benzodiazepine use (at least 0.03mg/kg IBW midazolam equivalent) was used during cardiac surgery. There was no statistically significant difference in delirium between restrictive and liberal benzodiazepine administration.
 
-* __Take Away__:
+* __Take Away__: At an institutional level, a policy of restrictive intraoperative benzodiazepine use in cardiac surgery did not reduce the incidence of delirium within 72 hrs of surgery and was not associated with an increase in patient-reported intraoperative awareness, but more research is needed to determine if restricting intraoperative benzodiazepine use at the patient level can reduce incidence of postoperative delirium.
 
 <br>
 
