@@ -87,7 +87,7 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 <br>
 
-[Han; Jun 2025]()
+[TRICS III; NEJM 2017](https://www.nejm.org/doi/full/10.1056/NEJMoa1711818)
 
 * __Clinical Question__: 
 
