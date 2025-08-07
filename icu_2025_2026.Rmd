@@ -25,9 +25,11 @@ _15 min break_
 _During "Deep Dive", fellow and faculty will collectively discuss 1-2 articles in significant detail. This portion of journal club will focus on nuances of study design, including data analysis and interpretation of results. The goal of "Deep Dive" is to build fellows' skills for future study interpretation (i.e. beyond fellowship)._
 
 <br>
-<b>Session 1: Introduction + Healthcare Disparities</b>
+<b>Session 1: Healthcare Disparities</b>
 
 Wednesday, August 6, 2025
+
+__Didactic__
 
 <u> Meghan Lane-Fall, MD, MSHP, FCCM</u>
 
@@ -42,6 +44,7 @@ Moderator: Aaron Mittel, MD, MSc
 
 [Understanding Randomised Clinical Trials](https://adc.bmj.com/content/90/8/840)
 
+
 <br>
 <b>Session 2: </b>
 
@@ -51,7 +54,6 @@ Moderator: Elvedin Lukovic, MD, PhD
 
 _EBM papers:_
 
-
 _Deep Dive:_
 
 
@@ -60,12 +62,9 @@ _Deep Dive:_
 
 Wednesday, October 8, 2025
 
-Moderator: Aaron Mittel, MD, MSc
+Moderator: May Hua, MD, MSc
 
-_EBM papers:_
-
-
-_Deep Dive:_
+__Observational Research in Critical Care__
 
 
 <br>
@@ -87,6 +86,7 @@ _Deep Dive:_
 Wednesday, December 17, 2025
 
 Moderator: Aaron Mittel, MD, MSc
+
 _EBM papers:_
 
 
@@ -172,7 +172,9 @@ _Deep Dive:_
 
 
 <br>
-<b>Session 12: Make-up session in case of cancellation of prior sessions</b>
+<b>Session 12: Make-up Session</b>
+
+TBD in case of cancellation of prior sessions
 
 Wednesday, July 15, 2026
 
