@@ -116,11 +116,11 @@ Moderator: Aaron Mittel, MD, MSc
 
 _EBM papers:_
 
-[HOT-ICU](https://www.nejm.org/doi/10.1056/NEJMoa2032510)
-
 [Oxygen-ICU](https://jamanetwork.com/journals/jama/fullarticle/2565306)
 
 [ICU ROX](https://www.nejm.org/doi/full/10.1056/NEJMoa1903297)
+
+[HOT-ICU](https://www.nejm.org/doi/10.1056/NEJMoa2032510)
 
 [BOX](https://www.nejm.org/doi/10.1056/NEJMoa2208686)
 
