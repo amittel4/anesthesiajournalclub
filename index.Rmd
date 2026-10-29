@@ -1,15 +1,40 @@
 ---
-title: "Anesthesia Journal Club @ CUIMC"
+title: "Anesthesia Journal Club"
 ---
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
 
-<img src="images/timmy_cat.jpg" alt="timmy" style="width:75%;">
+<img class="landing-cat" src="images/timmy_cat.jpg" alt="Timmy the cat">
 
+A repository of teaching presentations and articles in perioperative care, cardiothoracic anesthesiology, and critical care medicine.
 
-This educational website is a compendium for selected articles and presentations related to perioperative science and clinical care. Particular emphasis is given to adult cardiothoracic anesthesiology and critical care medicine. Articles are organized by academic year (July 1 - June 30) in which they are _taught_, rather than the years in which they were published.
+<p><a class="primary-link" href="didactics.html">Teaching Presentations →</a></p>
+
+## Article collections
+
+<div class="resource-grid article-grid">
+<a class="resource-card" href="cardiac_repository.html"><strong>Cardiothoracic anesthesiology</strong><span><em>Better Living Through Extracorporeal Circuity</em></span><span class="card-action">Browse cardiac articles →</span></a>
+<a class="resource-card" href="icu_repository.html"><strong>Critical care medicine</strong><span><em>Pragmatic Approaches to Precise Problems</em></span><span class="card-action">Browse ICU articles →</span></a>
+</div>
+
+```{=html}
+<details class="teaching-archive">
+<summary>Archived teaching years</summary>
+
+<p>Archived journal club materials, organized by the academic year (July 1–June 30) in which they were taught rather than publication year.</p>
+
+<h3>Cardiothoracic anesthesiology</h3>
+
+<ul><li><a href="cardiac_2025_2026.html">2025–2026</a></li>
+<li><a href="cardiac_2024_2025.html">2024–2025</a></li>
+<li><a href="cardiac_2023_2024.html">2023–2024</a></li>
+<li><a href="cardiac_2022_2023.html">2022–2023</a></li>
+<li><a href="cardiac_2021_2022.html">2021–2022</a></li></ul>
+
+<h3>Critical care medicine</h3>
+
+<ul><li><a href="icu_2025_2026.html">2025–2026</a></li>
+<li><a href="icu_2024_2025.html">2024–2025</a></li>
+<li><a href="icu_2023_2024.html">2023–2024</a></li>
+<li><a href="icu_2022_2023.html">2022–2023</a></li></ul>
+
+</details>
+```

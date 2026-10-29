@@ -1,25 +1,8 @@
 ---
-title: "Periop Didactics"
+title: "Teaching Presentations"
 ---
 
-Last Updated: October 2024
-
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  image-orientation: from-image;
-}
-</style>
-
-<img src="images/batman.jpg" alt="batman_stairs" style="width:50%;">
-
-<br>
-
-<b>Basic</b>
-
-<br>
+## Basic
 
 [Commonly Used Monitoring Techniques](https://docs.google.com/presentation/d/1kHxL9EryUQ_RGyhjn-BvINlmvrWIrgsEijVnQb0mph0/edit?usp=sharing)
 
@@ -29,11 +12,7 @@ img {
 
 [Lung Mechanics and Anesthesia](https://docs.google.com/presentation/d/1qOQ211_nebN3MlG6n4To86j3gEKSH_gF/edit?usp=sharing&ouid=102079696541019610913&rtpof=true&sd=true)
 
-<br>
-
-<b>Advanced</b>
-
-<br>
+## Advanced
 
 [Oxygen Therapy in Cardiac Surgery](https://docs.google.com/presentation/d/1aHKrGnUDZ-H59XzJ554mwTzl_rzUWpN9/edit?usp=sharing&ouid=102079696541019610913&rtpof=true&sd=true)
 

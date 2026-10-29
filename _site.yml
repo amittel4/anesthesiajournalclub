@@ -1,47 +1,24 @@
-name: "columbia anesthesia!"
+name: "Anesthesia Journal Club"
 output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "Cardiac"
-      menu:
-      - text: High Impact Articles
-        href: cardiac_repository.html
-      - text: 2025 - 2026
-        href: cardiac_2025_2026.html
-      - text: 2024 - 2025
-        href: cardiac_2024_2025.html
-      - text: 2023 - 2024
-        href: cardiac_2023_2024.html
-      - text: 2022 - 2023
-        href: cardiac_2022_2023.html
-      - text: 2021 - 2022
-        href: cardiac_2021_2022.html
-    - text: "ICU"
-      menu:
-      - text: High Impact Articles
-        href: icu_repository.html
-      - text: 2025 - 2026
-        href: icu_2025_2026.html
-      - text: 2024 - 2025
-        href: icu_2024_2025.html
-      - text: 2023 - 2024
-        href: icu_2023_2024.html
-      - text: 2022 - 2023
-        href: icu_2022_2023.html
-    - text: "Periop Didactics"
+    - text: "Teaching Presentations"
       href: didactics.html
-    - text: "Full Text Instructions"
-      href: full_text.html
+    - text: "Articles"
+      menu:
+        - text: "Cardiothoracic anesthesiology"
+          href: cardiac_repository.html
+        - text: "Critical care medicine"
+          href: icu_repository.html
+    - text: "Archived teaching years"
+      href: archive.html
     - text: "About"
       href: about.html
-    - icon: fa-github fa-lg
-      href: http://github.com/amittel4/
 output:
   html_document:
     theme: cosmo
-    inclue:
-      in_header: header.html
+    includes:
       after_body: footer.html
     css: styles.css
     lib_dir: site_libs

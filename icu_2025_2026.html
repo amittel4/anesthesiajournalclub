@@ -13,7 +13,7 @@
 
 <title>Critical Care Medicine</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -32,8 +32,6 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -181,8 +179,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -190,16 +188,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -255,71 +246,29 @@ $(document).ready(function () {
         
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    Cardiac
-     
-    <span class="caret"></span>
-  </a>
-  <ul class="dropdown-menu" role="menu">
-    <li>
-      <a href="cardiac_repository.html">High Impact Articles</a>
-    </li>
-    <li>
-      <a href="cardiac_2025_2026.html">2025 - 2026</a>
-    </li>
-    <li>
-      <a href="cardiac_2024_2025.html">2024 - 2025</a>
-    </li>
-    <li>
-      <a href="cardiac_2023_2024.html">2023 - 2024</a>
-    </li>
-    <li>
-      <a href="cardiac_2022_2023.html">2022 - 2023</a>
-    </li>
-    <li>
-      <a href="cardiac_2021_2022.html">2021 - 2022</a>
-    </li>
-  </ul>
+        <li>
+  <a href="didactics.html">Teaching Presentations</a>
 </li>
 <li class="dropdown">
   <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-    ICU
+    Articles
      
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
     <li>
-      <a href="icu_repository.html">High Impact Articles</a>
+      <a href="cardiac_repository.html">Cardiothoracic anesthesiology</a>
     </li>
     <li>
-      <a href="icu_2025_2026.html">2025 - 2026</a>
-    </li>
-    <li>
-      <a href="icu_2024_2025.html">2024 - 2025</a>
-    </li>
-    <li>
-      <a href="icu_2023_2024.html">2023 - 2024</a>
-    </li>
-    <li>
-      <a href="icu_2022_2023.html">2022 - 2023</a>
+      <a href="icu_repository.html">Critical care medicine</a>
     </li>
   </ul>
 </li>
 <li>
-  <a href="didactics.html">Periop Didactics</a>
-</li>
-<li>
-  <a href="full_text.html">Full Text Instructions</a>
+  <a href="archive.html">Archived teaching years</a>
 </li>
 <li>
   <a href="about.html">About</a>
-</li>
-<li>
-  <a href="http://github.com/amittel4/">
-    <span class="fa fa-github fa-lg"></span>
-     
-  </a>
 </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -561,6 +510,8 @@ vs. saline</a></p>
 <p>Moderator: Elvedin Lukovic, MD, PhD</p>
 </div>
 
+<footer class="site-footer"><span>Anesthesia Journal Club</span><span>For education and discussion.</span><a href="about.html">About &amp; disclaimer</a></footer>
+<script>document.querySelectorAll('.navbar-toggle').forEach(function(button){button.setAttribute('aria-label','Toggle navigation');button.setAttribute('aria-controls','navbar');});document.querySelectorAll('.navbar a').forEach(function(link){if(link.querySelector('.fa-github'))link.setAttribute('aria-label','GitHub profile');});</script>
 
 
 

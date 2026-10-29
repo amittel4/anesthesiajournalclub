@@ -1,0 +1,27 @@
+---
+title: "Journal Club Archive"
+---
+
+```{=html}
+<details class="teaching-archive">
+<summary>Archived teaching years</summary>
+
+<p>Archived journal club materials, organized by the academic year (July 1–June 30) in which they were taught rather than publication year.</p>
+
+<h3>Cardiothoracic anesthesiology</h3>
+
+<ul><li><a href="cardiac_2025_2026.html">2025–2026</a></li>
+<li><a href="cardiac_2024_2025.html">2024–2025</a></li>
+<li><a href="cardiac_2023_2024.html">2023–2024</a></li>
+<li><a href="cardiac_2022_2023.html">2022–2023</a></li>
+<li><a href="cardiac_2021_2022.html">2021–2022</a></li></ul>
+
+<h3>Critical care medicine</h3>
+
+<ul><li><a href="icu_2025_2026.html">2025–2026</a></li>
+<li><a href="icu_2024_2025.html">2024–2025</a></li>
+<li><a href="icu_2023_2024.html">2023–2024</a></li>
+<li><a href="icu_2022_2023.html">2022–2023</a></li></ul>
+
+</details>
+```
