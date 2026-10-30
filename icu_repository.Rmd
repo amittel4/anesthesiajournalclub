@@ -8,68 +8,92 @@ title: "Critical Care Medicine"
 
 <b>Study Design</b>
 
-[Understanding RCTs](https://adc.bmj.com/content/90/8/840)
+**[Understanding RCTs](https://adc.bmj.com/content/90/8/840)**<br>
+*Take Home Message*: Randomization, allocation concealment, and blinded outcome assessment help readers judge whether a trial's treatment effect is credible and applicable.
 
-[How to Read a Meta-Analysis](https://www.bmj.com/content/315/7109/672)
+**[How to Read a Meta-Analysis](https://www.bmj.com/content/315/7109/672)**<br>
+*Take Home Message*: Interpret pooled effects alongside study quality, heterogeneity, and confidence intervals before applying a meta-analysis to patient care.
 
 <br>
 <b>Sedation</b>
 
-[Daily interruption of sedation](https://www.nejm.org/doi/full/10.1056/NEJM200005183422002?query=recirc_curatedRelated_article)
+**[Daily interruption of sedation](https://www.nejm.org/doi/full/10.1056/NEJM200005183422002?query=recirc_curatedRelated_article)**<br>
+*Take Home Message*: Daily interruption of continuous sedative infusions shortened mechanical ventilation and ICU stay compared with clinician-directed interruption in this single-center trial.
 
-[SLEAP](https://jamanetwork.com/journals/jama/fullarticle/1380160)
+**[SLEAP](https://jamanetwork.com/journals/jama/fullarticle/1380160)**<br>
+*Take Home Message*: Adding daily sedation interruption to protocolized light sedation did not shorten time to extubation and increased sedative exposure and nursing workload.
 
-[MIND-USA](https://www.nejm.org/doi/10.1056/NEJMoa1808217)
+**[MIND-USA](https://www.nejm.org/doi/10.1056/NEJMoa1808217)**<br>
+*Take Home Message*: Haloperidol and ziprasidone did not increase days alive without delirium or coma compared with placebo in critically ill patients with acute respiratory failure or shock.
 
-[NONSEDA](https://www.nejm.org/doi/full/10.1056/NEJMoa1906759)
+**[NONSEDA](https://www.nejm.org/doi/full/10.1056/NEJMoa1906759)**<br>
+*Take Home Message*: A strategy of no sedation did not improve 90-day survival compared with light sedation with daily interruption in mechanically ventilated patients.
 
-[MENDS-2](https://www.nejm.org/doi/full/10.1056/NEJMoa2024922)
+**[MENDS-2](https://www.nejm.org/doi/full/10.1056/NEJMoa2024922)**<br>
+*Take Home Message*: Dexmedetomidine and propofol produced similar days alive without delirium or coma in mechanically ventilated adults with sepsis managed with light sedation.
 
-[AID-ICU (2023)](https://www.nejm.org/doi/full/10.1056/NEJMoa2211868)
+**[AID-ICU (2023)](https://www.nejm.org/doi/full/10.1056/NEJMoa2211868)**<br>
+*Take Home Message*: Haloperidol did not significantly increase days alive and out of hospital at 90 days in ICU patients with delirium, despite lower mortality in a secondary analysis.
 
 <br>
 
 <b>Stroke</b>
 
-[DAWN](https://www.nejm.org/doi/full/10.1056/nejmoa1706442)
+**[DAWN](https://www.nejm.org/doi/full/10.1056/nejmoa1706442)**<br>
+*Take Home Message*: Thrombectomy improved 90-day functional outcomes in selected patients with anterior-circulation large-vessel stroke and a clinical-imaging mismatch presenting 6 to 24 hours after last known well.
 
-[DESTINY (hemicrani)](https://www.ahajournals.org/doi/10.1161/strokeaha.107.485649)
+**[DESTINY (hemicrani)](https://www.ahajournals.org/doi/10.1161/strokeaha.107.485649)**<br>
+*Take Home Message*: Early decompressive hemicraniectomy improved survival after malignant middle cerebral artery infarction, but this small trial did not establish a significant benefit for its primary functional endpoint.
 
-[RESCUE Japan](https://www.nejm.org/doi/full/10.1056/NEJMoa2118191?query=TOC&cid=NEJM%20eToc,%20February%2010,%202022%20DM707270_NEJM_Subscriber&bid=812301726)
+**[RESCUE Japan](https://www.nejm.org/doi/full/10.1056/NEJMoa2118191?query=TOC&cid=NEJM%20eToc,%20February%2010,%202022%20DM707270_NEJM_Subscriber&bid=812301726)**<br>
+*Take Home Message*: Endovascular therapy improved functional outcomes in selected patients with large ischemic cores, while increasing intracranial hemorrhage.
 
 <br>
 
 <b>Resuscitation after Cardiac Arrest</b>
 
-[HACA](https://www.nejm.org/doi/full/10.1056/nejmoa012689)
+**[HACA](https://www.nejm.org/doi/full/10.1056/nejmoa012689)**<br>
+*Take Home Message*: Cooling to 32–34°C improved neurologic outcomes and reduced mortality compared with the usual care of that era after witnessed ventricular-fibrillation cardiac arrest.
 
-[TTM](https://www.nejm.org/doi/full/10.1056/nejmoa1310519)
+**[TTM](https://www.nejm.org/doi/full/10.1056/nejmoa1310519)**<br>
+*Take Home Message*: Targeting 33°C did not improve survival or neurologic outcomes compared with 36°C after out-of-hospital cardiac arrest.
 
-[TTM2](https://www.nejm.org/doi/full/10.1056/NEJMoa2100591)
+**[TTM2](https://www.nejm.org/doi/full/10.1056/NEJMoa2100591)**<br>
+*Take Home Message*: Targeting 33°C did not improve survival or functional outcomes compared with targeted normothermia and early fever treatment after out-of-hospital cardiac arrest.
 
-[HYPERION](https://www.nejm.org/doi/10.1056/NEJMoa1906661)
+**[HYPERION](https://www.nejm.org/doi/10.1056/NEJMoa1906661)**<br>
+*Take Home Message*: Targeting 33°C modestly increased survival with favorable neurologic function at 90 days after nonshockable cardiac arrest, without a significant mortality benefit.
 
-[CAPITAL CHILL](https://jamanetwork.com/journals/jama/fullarticle/2785263)
+**[CAPITAL CHILL](https://jamanetwork.com/journals/jama/fullarticle/2785263)**<br>
+*Take Home Message*: Cooling to 31°C did not improve the composite of death or poor neurologic outcome compared with 34°C after out-of-hospital cardiac arrest.
 
-[ARREST](https://pubmed.ncbi.nlm.nih.gov/33197396)
+**[ARREST](https://pubmed.ncbi.nlm.nih.gov/33197396)**<br>
+*Take Home Message*: An ECMO-facilitated resuscitation strategy improved survival to hospital discharge after refractory ventricular fibrillation in this small, single-center trial stopped early.
 
-[Tracheal intubation and survival](https://jamanetwork.com/journals/jama/fullarticle/2598717)
+**[Tracheal intubation and survival](https://jamanetwork.com/journals/jama/fullarticle/2598717)**<br>
+*Take Home Message*: Tracheal intubation during in-hospital cardiac arrest was associated with lower survival in a time-matched observational analysis, which cannot establish causation.
 
-[INCEPTION](https://www.nejm.org/doi/full/10.1056/NEJMoa2204511)
+**[INCEPTION](https://www.nejm.org/doi/full/10.1056/NEJMoa2204511)**<br>
+*Take Home Message*: Early extracorporeal CPR did not significantly improve 30-day survival with favorable neurologic function compared with conventional CPR in refractory out-of-hospital arrest.
 
 <br>
 
 <b>Postop CT Surgery and Mechanical Circulatory Support</b>
 
-[MOMENTUM 3](https://www.nejm.org/doi/full/10.1056/NEJMoa1900486)
+**[MOMENTUM 3](https://www.nejm.org/doi/full/10.1056/NEJMoa1900486)**<br>
+*Take Home Message*: The fully magnetically levitated HeartMate 3 improved two-year survival free of disabling stroke or pump replacement compared with the axial-flow HeartMate II.
 
-[Rate vs rhythm control for a.fib. after cardiac surgery](https://www.nejm.org/doi/full/10.1056/nejmoa1602002)
+**[Rate vs rhythm control for a.fib. after cardiac surgery](https://www.nejm.org/doi/full/10.1056/nejmoa1602002)**<br>
+*Take Home Message*: Rate and rhythm control produced similar hospital days and clinical outcomes in hemodynamically stable patients with new atrial fibrillation after cardiac surgery.
 
-[VANCS](https://pubs.asahq.org/anesthesiology/article/126/1/85/662/Vasopressin-versus-Norepinephrine-in-Patients-with)
+**[VANCS](https://pubs.asahq.org/anesthesiology/article/126/1/85/662/Vasopressin-versus-Norepinephrine-in-Patients-with)**<br>
+*Take Home Message*: Vasopressin reduced the composite of death or severe complications compared with norepinephrine for postcardiac-surgery vasoplegic shock in this single-center trial.
 
-[ADVOR](https://www.nejm.org/doi/10.1056/NEJMoa2203094?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+**[ADVOR](https://www.nejm.org/doi/10.1056/NEJMoa2203094?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)**<br>
+*Take Home Message*: Adding intravenous acetazolamide to loop diuretics increased successful early decongestion in acute heart failure without a demonstrated reduction in death or heart-failure readmission.
 
-[DanGer Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa2312572)
+**[DanGer Shock](https://www.nejm.org/doi/full/10.1056/NEJMoa2312572)**<br>
+*Take Home Message*: A microaxial flow pump reduced 180-day mortality in selected patients with STEMI-related cardiogenic shock but increased serious adverse events and renal-replacement therapy.
 
 <br>
 
@@ -77,73 +101,99 @@ title: "Critical Care Medicine"
 
 <i>Goal-directed sepsis resuscitation</i>
 
-[EGDT (Rivers et al)](https://www.nejm.org/doi/full/10.1056/NEJMoa010307)
+**[EGDT (Rivers et al)](https://www.nejm.org/doi/full/10.1056/NEJMoa010307)**<br>
+*Take Home Message*: Early goal-directed therapy reduced in-hospital mortality compared with usual care in this single-center trial of severe sepsis and septic shock.
 
-[PROCESS](https://www.nejm.org/doi/full/10.1056/nejmoa1401602)
+**[PROCESS](https://www.nejm.org/doi/full/10.1056/nejmoa1401602)**<br>
+*Take Home Message*: Protocol-based early goal-directed therapy did not improve survival compared with other protocolized care or contemporary usual care in septic shock.
 
-[ProMISe](https://www.nejm.org/doi/full/10.1056/nejmoa1500896)
+**[ProMISe](https://www.nejm.org/doi/full/10.1056/nejmoa1500896)**<br>
+*Take Home Message*: Early goal-directed therapy did not improve 90-day survival compared with contemporary usual care for septic shock and increased treatment intensity and costs.
 
-[ARISE](https://www.nejm.org/doi/full/10.1056/NEJMoa1404380)
+**[ARISE](https://www.nejm.org/doi/full/10.1056/NEJMoa1404380)**<br>
+*Take Home Message*: Early goal-directed therapy did not improve 90-day survival compared with contemporary usual care for early septic shock.
 
 <br>
 
 <i>MAP Targets/Vasopressor Strategies</i>
 
-[SEPSISPAM](https://www.nejm.org/doi/full/10.1056/NEJMoa1312173)
+**[SEPSISPAM](https://www.nejm.org/doi/full/10.1056/NEJMoa1312173)**<br>
+*Take Home Message*: Targeting a MAP of 80–85 rather than 65–70 mm Hg did not improve septic-shock survival and increased atrial fibrillation, although patients with chronic hypertension required less dialysis.
 
-[65 trial](https://jamanetwork.com/journals/jama/fullarticle/2761427?resultClick=1)
+**[65 trial](https://jamanetwork.com/journals/jama/fullarticle/2761427?resultClick=1)**<br>
+*Take Home Message*: A MAP target of 60–65 mm Hg reduced vasopressor exposure without a statistically significant difference in 90-day mortality among older patients with vasodilatory hypotension.
 
-[ANDROMEDA-SHOCK](https://jamanetwork.com/journals/jama/fullarticle/2724361)
+**[ANDROMEDA-SHOCK](https://jamanetwork.com/journals/jama/fullarticle/2724361)**<br>
+*Take Home Message*: Capillary-refill-guided resuscitation did not significantly reduce the primary outcome of 28-day mortality compared with lactate-guided resuscitation in septic shock.
 
-[VASST](https://www.nejm.org/doi/full/10.1056/NEJMoa067373)
+**[VASST](https://www.nejm.org/doi/full/10.1056/NEJMoa067373)**<br>
+*Take Home Message*: Low-dose vasopressin did not significantly reduce overall mortality compared with norepinephrine in patients with septic shock.
 
-[Association Between US Norepinephrine Shortage and Mortality](https://jamanetwork.com/journals/jama/fullarticle/2612912)
+**[Association Between US Norepinephrine Shortage and Mortality](https://jamanetwork.com/journals/jama/fullarticle/2612912)**<br>
+*Take Home Message*: A US norepinephrine shortage was associated with increased septic-shock mortality and greater use of alternative vasopressors, without establishing which substitution caused harm.
 
 <br>
 
 <i>IV Fluid Volume Management</i>
 
-[FEAST](https://www.nejm.org/doi/full/10.1056/nejmoa1101549)
+**[FEAST](https://www.nejm.org/doi/full/10.1056/nejmoa1101549)**<br>
+*Take Home Message*: Albumin or saline boluses increased mortality compared with no bolus in African children with severe febrile illness and impaired perfusion, limiting extrapolation to other settings.
 
-[Low vs high volume meta-analysis](https://pubmed.ncbi.nlm.nih.gov/31982391/)
+**[Low vs high volume meta-analysis](https://pubmed.ncbi.nlm.nih.gov/31982391/)**<br>
+*Take Home Message*: This meta-analysis found very low-certainty evidence and no clear mortality difference between lower and higher initial fluid volumes in adults with sepsis.
 
-[CLASSIC](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707)
+**[CLASSIC](https://www.nejm.org/doi/full/10.1056/NEJMoa2202707)**<br>
+*Take Home Message*: Restricting intravenous fluids after initial resuscitation did not reduce 90-day mortality compared with standard fluid therapy in ICU patients with septic shock.
 
-[CLOVERS](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663)
+**[CLOVERS](https://www.nejm.org/doi/full/10.1056/NEJMoa2212663)**<br>
+*Take Home Message*: An early restrictive-fluid strategy prioritizing vasopressors did not improve survival compared with a liberal-fluid strategy for sepsis-induced hypotension after initial fluids.
 
 <br>
 
 <i>IV Fluid Choice</i>
 
-[SAFE](https://www.nejm.org/doi/full/10.1056/nejmoa040232)
+**[SAFE](https://www.nejm.org/doi/full/10.1056/nejmoa040232)**<br>
+*Take Home Message*: Albumin and saline produced similar overall 28-day mortality in a broad ICU population, without establishing equivalence in every diagnostic subgroup.
 
-[SMART](https://www.nejm.org/doi/full/10.1056/nejmoa1711584)
+**[SMART](https://www.nejm.org/doi/full/10.1056/nejmoa1711584)**<br>
+*Take Home Message*: Balanced crystalloids modestly reduced the composite of death, new dialysis, or persistent renal dysfunction compared with saline in critically ill adults.
 
-[CRISTAL](https://jamanetwork.com/journals/jama/fullarticle/1752245)
+**[CRISTAL](https://jamanetwork.com/journals/jama/fullarticle/1752245)**<br>
+*Take Home Message*: Colloids did not significantly reduce the primary outcome of 28-day mortality compared with crystalloids in hypovolemic shock, despite a secondary 90-day survival signal.
 
-[ALBIOS](https://www.nejm.org/doi/full/10.1056/nejmoa1305727)
+**[ALBIOS](https://www.nejm.org/doi/full/10.1056/nejmoa1305727)**<br>
+*Take Home Message*: Adding albumin to crystalloids did not improve 28- or 90-day survival overall in patients with severe sepsis or septic shock.
 
-[HES vs. saline](https://www.nejm.org/doi/full/10.1056/NEJMoa1209759)
+**[HES vs. saline](https://www.nejm.org/doi/full/10.1056/NEJMoa1209759)**<br>
+*Take Home Message*: Hydroxyethyl starch did not improve survival compared with saline and increased the use of renal-replacement therapy in critically ill patients.
 
-[FLUID](https://www.nejm.org/doi/10.1056/NEJMoa2416761)
+**[FLUID](https://www.nejm.org/doi/10.1056/NEJMoa2416761)**<br>
+*Take Home Message*: Hospital-wide use of lactated Ringer's rather than saline did not significantly reduce death or hospital readmission within 90 days.
 
 <br>
 
 <i>Adjunct Shock Therapy: Steroids, HAT, Vitamin C</i>
 
-[Original Annane trial](https://jamanetwork.com/journals/jama/fullarticle/195197)
+**[Original Annane trial](https://jamanetwork.com/journals/jama/fullarticle/195197)**<br>
+*Take Home Message*: Hydrocortisone plus fludrocortisone reduced mortality in the prespecified subgroup of septic-shock patients who did not respond to corticotropin in this trial.
 
-[CORTICUS](https://www.nejm.org/doi/full/10.1056/NEJMoa071366)
+**[CORTICUS](https://www.nejm.org/doi/full/10.1056/NEJMoa071366)**<br>
+*Take Home Message*: Hydrocortisone hastened shock reversal but did not improve survival in septic shock, including among patients without a corticotropin response.
 
-[ADRENAL](https://www.nejm.org/doi/full/10.1056/NEJMoa1705835)
+**[ADRENAL](https://www.nejm.org/doi/full/10.1056/NEJMoa1705835)**<br>
+*Take Home Message*: Hydrocortisone accelerated shock resolution but did not reduce 90-day mortality in mechanically ventilated patients with septic shock.
 
-[APROCCHSS](https://www.nejm.org/doi/full/10.1056/NEJMoa1705716)
+**[APROCCHSS](https://www.nejm.org/doi/full/10.1056/NEJMoa1705716)**<br>
+*Take Home Message*: Hydrocortisone plus fludrocortisone reduced 90-day mortality compared with placebo in patients with septic shock.
 
-[VITAMINS](https://jamanetwork.com/journals/jama/fullarticle/2759414)
+**[VITAMINS](https://jamanetwork.com/journals/jama/fullarticle/2759414)**<br>
+*Take Home Message*: Adding vitamin C and thiamine to hydrocortisone did not increase time alive and free of vasopressors compared with hydrocortisone alone in septic shock.
 
-[LOVIT (Vitamin C)](https://www.nejm.org/doi/full/10.1056/NEJMoa2200644)
+**[LOVIT (Vitamin C)](https://www.nejm.org/doi/full/10.1056/NEJMoa2200644)**<br>
+*Take Home Message*: Intravenous vitamin C increased the risk of death or persistent organ dysfunction at 28 days in adults with sepsis receiving vasopressors.
 
-[Evaluation of Etomidate use and association with mortality compared with ketamine among critically ill patients](https://pubmed.ncbi.nlm.nih.gov/39173173/)
+**[Evaluation of Etomidate use and association with mortality compared with ketamine among critically ill patients](https://pubmed.ncbi.nlm.nih.gov/39173173/)**<br>
+*Take Home Message*: Etomidate use at initiation of invasive ventilation was associated with higher hospital mortality than ketamine in this observational study, which cannot establish causation.
 
 <br>
 
@@ -151,144 +201,196 @@ title: "Critical Care Medicine"
 
 <i>Lung-protective Ventilation</i>
 
-[ARMA](https://www.nejm.org/doi/full/10.1056/nejm200005043421801)
+**[ARMA](https://www.nejm.org/doi/full/10.1056/nejm200005043421801)**<br>
+*Take Home Message*: Ventilation with approximately 6 rather than 12 mL/kg predicted body weight reduced mortality in acute lung injury and ARDS.
 
-[ALVEOLI](https://www.nejm.org/doi/full/10.1056/NEJMoa032193)
+**[ALVEOLI](https://www.nejm.org/doi/full/10.1056/NEJMoa032193)**<br>
+*Take Home Message*: Higher and lower PEEP strategies produced similar survival and ventilator-free days when both used low tidal volumes in acute lung injury and ARDS.
 
-[EPVent-2](https://jamanetwork.com/journals/jama/fullarticle/2725206)
+**[EPVent-2](https://jamanetwork.com/journals/jama/fullarticle/2725206)**<br>
+*Take Home Message*: Esophageal-pressure-guided PEEP did not improve the composite of death and ventilator-free days compared with an empirical high-PEEP strategy in moderate-to-severe ARDS.
 
-[PROSEVA](https://www.nejm.org/doi/full/10.1056/nejmoa1214103)
+**[PROSEVA](https://www.nejm.org/doi/full/10.1056/nejmoa1214103)**<br>
+*Take Home Message*: Early prolonged prone positioning substantially reduced mortality in patients with severe ARDS receiving lung-protective ventilation.
 
-[ACURASYS](https://www.nejm.org/doi/full/10.1056/nejmoa1005372)
+**[ACURASYS](https://www.nejm.org/doi/full/10.1056/nejmoa1005372)**<br>
+*Take Home Message*: Early 48-hour cisatracurium improved adjusted 90-day survival in severe ARDS, although the unadjusted mortality difference was not statistically significant.
 
-[ROSE](https://www.nejm.org/doi/full/10.1056/nejmoa1901686)
+**[ROSE](https://www.nejm.org/doi/full/10.1056/nejmoa1901686)**<br>
+*Take Home Message*: Routine early neuromuscular blockade with deep sedation did not improve 90-day survival compared with usual care using lighter sedation in moderate-to-severe ARDS.
 
-[LUNG SAFE](https://jamanetwork.com/journals/jama/fullarticle/2492877)
+**[LUNG SAFE](https://jamanetwork.com/journals/jama/fullarticle/2492877)**<br>
+*Take Home Message*: ARDS was common, frequently underrecognized, and often managed without recommended protective strategies in this international observational study.
 
 <br>
 
 <i>VV ECMO</i>
 
-[CESAR](https://www.sciencedirect.com/science/article/pii/S0140673609610692?via%3Dihub)
+**[CESAR](https://www.sciencedirect.com/science/article/pii/S0140673609610692?via%3Dihub)**<br>
+*Take Home Message*: Referral to an ECMO-capable center improved six-month survival without severe disability in severe respiratory failure, although the trial tested a care strategy rather than ECMO alone.
 
-[EOLIA](https://www.nejm.org/doi/full/10.1056/NEJMoa1800385)
+**[EOLIA](https://www.nejm.org/doi/full/10.1056/NEJMoa1800385)**<br>
+*Take Home Message*: Early VV ECMO did not significantly reduce the primary outcome of 60-day mortality in very severe ARDS, with substantial crossover to rescue ECMO.
 
-[Bayesian analysis of EOLIA](https://jamanetwork.com/journals/jama/fullarticle/2709620)
+**[Bayesian analysis of EOLIA](https://jamanetwork.com/journals/jama/fullarticle/2709620)**<br>
+*Take Home Message*: A post hoc Bayesian analysis suggested a high probability of mortality benefit from early ECMO in very severe ARDS, with the estimate dependent on prior assumptions.
 
 <br>
 
 <i>Weaning and Post-extubation Care</i>
 
-[TRAC MAN](https://jamanetwork.com/journals/jama/fullarticle/1690674)
+**[TRAC MAN](https://jamanetwork.com/journals/jama/fullarticle/1690674)**<br>
+*Take Home Message*: Early tracheostomy did not improve 30-day survival compared with a deferred strategy, and many patients in the deferred group never required tracheostomy.
 
-[Postextubation HFNC/NIV](https://pubmed.ncbi.nlm.nih.gov/31577036/)
+**[Postextubation HFNC/NIV](https://pubmed.ncbi.nlm.nih.gov/31577036/)**<br>
+*Take Home Message*: Prophylactic NIV alternating with high-flow nasal oxygen reduced reintubation compared with high-flow nasal oxygen alone in patients at high risk of extubation failure.
 
-[TEAM](https://www.nejm.org/doi/full/10.1056/NEJMoa2209083)
+**[TEAM](https://www.nejm.org/doi/full/10.1056/NEJMoa2209083)**<br>
+*Take Home Message*: Increasing early active mobilization during mechanical ventilation did not improve days alive and out of hospital and increased adverse events.
 
-[FAST](https://jamanetwork.com/journals/jama/fullarticle/2824928)
+**[FAST](https://jamanetwork.com/journals/jama/fullarticle/2824928)**<br>
+*Take Home Message*: Neither more frequent readiness screening nor pressure-supported rather than T-piece spontaneous breathing trials independently shortened time to successful extubation, with an unexpected interaction between interventions.
 
 <br>
 
 <i>Oxygenation Targets</i>
 
-[HOT-ICU](https://www.nejm.org/doi/10.1056/NEJMoa2032510)
+**[HOT-ICU](https://www.nejm.org/doi/10.1056/NEJMoa2032510)**<br>
+*Take Home Message*: Targeting a PaO2 of 60 rather than 90 mm Hg did not reduce 90-day mortality in adults with acute hypoxemic respiratory failure.
 
-[Oxygen-ICU](https://jamanetwork.com/journals/jama/fullarticle/2565306)
+**[Oxygen-ICU](https://jamanetwork.com/journals/jama/fullarticle/2565306)**<br>
+*Take Home Message*: Conservative oxygen therapy reduced ICU mortality in this single-center trial stopped early, leaving substantial uncertainty about the size and generalizability of benefit.
 
-[ICU ROX](https://www.nejm.org/doi/full/10.1056/NEJMoa1903297)
+**[ICU ROX](https://www.nejm.org/doi/full/10.1056/NEJMoa1903297)**<br>
+*Take Home Message*: Conservative oxygen therapy did not increase ventilator-free days compared with usual oxygen therapy in mechanically ventilated adults.
 
-[BOX](https://www.nejm.org/doi/10.1056/NEJMoa2208686)
+**[BOX](https://www.nejm.org/doi/10.1056/NEJMoa2208686)**<br>
+*Take Home Message*: Restrictive and liberal oxygen targets produced similar rates of death or severe neurologic disability after out-of-hospital cardiac arrest.
 
-[PILOT](https://www.nejm.org/doi/full/10.1056/NEJMoa2208415)
+**[PILOT](https://www.nejm.org/doi/full/10.1056/NEJMoa2208415)**<br>
+*Take Home Message*: Lower, intermediate, and higher oxygen-saturation targets produced similar ventilator-free days in mechanically ventilated adults.
 
 
 <br>
 
 <b>Nutrition/GI</b>
 
-[TARGET](https://www.nejm.org/doi/full/10.1056/NEJMoa1811687)
+**[TARGET](https://www.nejm.org/doi/full/10.1056/NEJMoa1811687)**<br>
+*Take Home Message*: Energy-dense enteral nutrition increased calorie delivery but did not improve 90-day survival in mechanically ventilated adults.
 
-[PERMIT](https://www.nejm.org/doi/full/10.1056/NEJMoa1502826)
+**[PERMIT](https://www.nejm.org/doi/full/10.1056/NEJMoa1502826)**<br>
+*Take Home Message*: Permissive underfeeding and standard enteral feeding produced similar 90-day mortality when protein intake was comparable.
 
-[EPANIC](https://www.nejm.org/doi/full/10.1056/NEJMoa1102662)
+**[EPANIC](https://www.nejm.org/doi/full/10.1056/NEJMoa1102662)**<br>
+*Take Home Message*: Deferring supplemental parenteral nutrition until day 8 led to faster recovery and fewer infections than starting it early in critically ill adults.
 
-[EDEN](https://jamanetwork.com/journals/jama/fullarticle/1355969)
+**[EDEN](https://jamanetwork.com/journals/jama/fullarticle/1355969)**<br>
+*Take Home Message*: Initial trophic and full enteral feeding produced similar ventilator-free days and survival in acute lung injury, with less gastrointestinal intolerance during trophic feeding.
 
-[Supplementary parenteral nutrition trial](	https://www.sciencedirect.com/science/article/pii/S0140673612613518?via%3Dihub)
+**[Supplementary parenteral nutrition trial](https://www.sciencedirect.com/science/article/pii/S0140673612613518?via%3Dihub)**<br>
+*Take Home Message*: Supplemental parenteral nutrition on days 4–8 reduced subsequent nosocomial infections in selected ICU patients whose enteral intake remained below target.
 
-[SUP-ICU](ttps://www.nejm.org/doi/full/10.1056/nejmoa1714919)
+**[SUP-ICU](https://www.nejm.org/doi/full/10.1056/nejmoa1714919)**<br>
+*Take Home Message*: Pantoprazole reduced clinically important gastrointestinal bleeding but did not improve 90-day survival in ICU patients at risk of gastrointestinal bleeding.
 
-[PEPTIC](https://jamanetwork.com/journals/jama/fullarticle/2759412)
+**[PEPTIC](https://jamanetwork.com/journals/jama/fullarticle/2759412)**<br>
+*Take Home Message*: A proton-pump-inhibitor strategy reduced clinically important upper gastrointestinal bleeding compared with H2 blockers but did not significantly reduce hospital mortality.
 
 <br>
 
 <b>Renal Failure and Dialysis</b>
 
-[AKIKI](https://www.nejm.org/doi/full/10.1056/NEJMoa1603017)
+**[AKIKI](https://www.nejm.org/doi/full/10.1056/NEJMoa1603017)**<br>
+*Take Home Message*: An early dialysis strategy did not improve 60-day survival in severe AKI without urgent indications, and many patients assigned to delay avoided dialysis.
 
-[SMARRT-AKI](https://www.nejm.org/doi/full/10.1056/nejmoa2000741)
+**[STARRT-AKI](https://www.nejm.org/doi/full/10.1056/nejmoa2000741)**<br>
+*Take Home Message*: Accelerated renal-replacement therapy did not improve 90-day survival and increased dialysis dependence among survivors compared with a standard strategy in severe AKI.
 
-[IDEAL-ICU](https://www.nejm.org/doi/full/10.1056/NEJMoa1803213)
+**[IDEAL-ICU](https://www.nejm.org/doi/full/10.1056/NEJMoa1803213)**<br>
+*Take Home Message*: Early renal-replacement therapy did not improve 90-day survival compared with a delayed strategy in septic shock with severe AKI, and the trial stopped early for futility.
 
-[RENAL](https://www.nejm.org/doi/full/10.1056/nejmoa0902413)
+**[RENAL](https://www.nejm.org/doi/full/10.1056/nejmoa0902413)**<br>
+*Take Home Message*: Higher-intensity continuous renal-replacement therapy did not improve 90-day survival compared with a lower-intensity regimen in critically ill patients with AKI.
 
-[AKIKI2](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00350-0/fulltext)
+**[AKIKI2](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00350-0/fulltext)**<br>
+*Take Home Message*: Further postponing dialysis beyond an already delayed strategy did not increase dialysis-free days and raised concern for increased mortality in severe AKI.
 
-[PLUS](https://www.nejm.org/doi/full/10.1056/NEJMoa2114464)
+**[PLUS](https://www.nejm.org/doi/full/10.1056/NEJMoa2114464)**<br>
+*Take Home Message*: Balanced multielectrolyte solution did not reduce 90-day mortality or new renal-replacement therapy compared with saline in critically ill adults.
+
+**[ICRAKI (2026): Intermittent or Continuous Renal-Replacement Therapy in Acute Kidney Injury](https://www.nejm.org/doi/full/10.1056/NEJMoa2608397)**<br>
+*Take Home Message*: Initial intermittent hemodialysis failed to establish noninferiority to continuous therapy for 90-day major adverse kidney events and was associated with higher mortality in this trial stopped early.
 
 <br>
 
 <b>Transfusion</b>
 
-[TRICS III](https://www.nejm.org/doi/full/10.1056/NEJMoa1711818)
+**[TRICS III](https://www.nejm.org/doi/full/10.1056/NEJMoa1711818)**<br>
+*Take Home Message*: A restrictive transfusion threshold of 7.5 g/dL was noninferior to a liberal strategy for death or major organ complications after cardiac surgery.
 
-[FOCUS](https://www.nejm.org/doi/full/10.1056/NEJMoa1012452)
+**[FOCUS](https://www.nejm.org/doi/full/10.1056/NEJMoa1012452)**<br>
+*Take Home Message*: A liberal transfusion threshold of 10 g/dL did not improve survival or walking independence compared with a restrictive strategy after hip-fracture surgery in patients with cardiovascular risk.
 
-[TRISS](https://www.nejm.org/doi/full/10.1056/nejmoa1406617)
+**[TRISS](https://www.nejm.org/doi/full/10.1056/nejmoa1406617)**<br>
+*Take Home Message*: A hemoglobin threshold of 7 rather than 9 g/dL reduced transfusions without a significant difference in 90-day mortality among patients with septic shock.
 
-[Transfusion strategies in upper GI bleeding](	https://www.nejm.org/doi/full/10.1056/nejmoa1211801)
+**[Transfusion strategies in upper GI bleeding](https://www.nejm.org/doi/full/10.1056/nejmoa1211801)**<br>
+*Take Home Message*: A restrictive transfusion threshold of 7 rather than 9 g/dL improved six-week survival and reduced rebleeding in selected patients with acute upper gastrointestinal bleeding.
 
-[REALITY](https://jamanetwork.com/journals/jama/article-abstract/2776201)
+**[REALITY](https://jamanetwork.com/journals/jama/article-abstract/2776201)**<br>
+*Take Home Message*: Restrictive transfusion met the trial's noninferiority criterion for 30-day major cardiovascular events in acute myocardial infarction with anemia, but the confidence interval allowed clinically important harm.
 
-[PROPPR](https://jamanetwork.com/journals/jama/fullarticle/2107789)
+**[PROPPR](https://jamanetwork.com/journals/jama/fullarticle/2107789)**<br>
+*Take Home Message*: A 1:1:1 plasma:platelet:red-cell ratio did not significantly reduce overall mortality versus 1:1:2 in severe trauma but improved hemostasis and reduced early exsanguination deaths.
 
 <br>
 
 <b>Endocrine</b>
 
-[NICE SUGAR](https://www.nejm.org/doi/full/10.1056/nejmoa0810625)
+**[NICE SUGAR](https://www.nejm.org/doi/full/10.1056/nejmoa0810625)**<br>
+*Take Home Message*: Intensive glucose control targeting 81–108 mg/dL increased mortality and severe hypoglycemia compared with conventional control in critically ill adults.
 
 <br>
 
 <b>Infectious Disease</b>
 
-[STOP-IT](https://www.nejm.org/doi/full/10.1056/nejmoa1411162)
+**[STOP-IT](https://www.nejm.org/doi/full/10.1056/nejmoa1411162)**<br>
+*Take Home Message*: About four days of antibiotics after adequate source control produced similar outcomes to a longer course for complicated intra-abdominal infection.
 
-[MERINO](https://jamanetwork.com/journals/jama/fullarticle/2702145)
+**[MERINO](https://jamanetwork.com/journals/jama/fullarticle/2702145)**<br>
+*Take Home Message*: Piperacillin-tazobactam failed to demonstrate noninferiority to meropenem for 30-day mortality in ceftriaxone-resistant E. coli or Klebsiella bloodstream infection.
 
-[PROGRESS](https://pubmed.ncbi.nlm.nih.gov/32757963/)
+**[PROGRESS](https://pubmed.ncbi.nlm.nih.gov/32757963/)**<br>
+*Take Home Message*: Procalcitonin-guided antibiotic discontinuation reduced antibiotic duration and infection-associated adverse events in sepsis in this randomized trial.
 
 <br>
 
 <b>Palliative Care</b>
 
-[RCT of family-support intervention in ICUs](https://www.nejm.org/doi/full/10.1056/NEJMoa1802637)
+**[RCT of family-support intervention in ICUs](https://www.nejm.org/doi/full/10.1056/NEJMoa1802637)**<br>
+*Take Home Message*: A structured ICU family-support intervention improved perceived communication and patient-centeredness but did not reduce surrogate decision-makers' anxiety and depression at six months.
 
 <br>
 
 <b>Healthcare Disparities in Critical Illness</b>
 
-[Association of Race and Ethnicity with COVID-19 Test Positivity and Hospitalization Is Mediated by Socioeconomic Factors](https://www.atsjournals.org/doi/10.1513/AnnalsATS.202011-1448OC)
+**[Association of Race and Ethnicity with COVID-19 Test Positivity and Hospitalization Is Mediated by Socioeconomic Factors](https://www.atsjournals.org/doi/10.1513/AnnalsATS.202011-1448OC)**<br>
+*Take Home Message*: Socioeconomic factors substantially mediated associations between race or ethnicity and COVID-19 test positivity and hospitalization in this observational study.
 
-[Racial bias in pulse oximetry](https://www.nejm.org/doi/full/10.1056/NEJMc2029240)
+**[Racial bias in pulse oximetry](https://www.nejm.org/doi/full/10.1056/NEJMc2029240)**<br>
+*Take Home Message*: Pulse oximetry missed arterial hypoxemia more often in Black than White patients in two retrospective cohorts, revealing an important limitation of oxygen-saturation monitoring.
 
-[Patient and Hospital Factors Associated With Differences in Mortality Rates Among Black and White US Medicare Beneficiaries Hospitalized With COVID-19 Infection](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781182)
+**[Patient and Hospital Factors Associated With Differences in Mortality Rates Among Black and White US Medicare Beneficiaries Hospitalized With COVID-19 Infection](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2781182)**<br>
+*Take Home Message*: Differences between hospitals largely accounted for the adjusted Black–White disparity in death or hospice discharge among Medicare patients hospitalized with COVID-19.
 
-[Temporal Trends in Critical Care Outcomes in U.S. Minority-Serving Hospitals](https://www.atsjournals.org/doi/10.1164/rccm.201903-0623OC)
+**[Temporal Trends in Critical Care Outcomes in U.S. Minority-Serving Hospitals](https://www.atsjournals.org/doi/10.1164/rccm.201903-0623OC)**<br>
+*Take Home Message*: Mortality improvements were smaller in minority-serving ICUs than in other hospitals over a decade, especially for Black patients, in this observational cohort.
 
-[Racial Variation in End-of-Life Intensive Care Use: A Race or Hospital Effect?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6773.2006.00598.x)
+**[Racial Variation in End-of-Life Intensive Care Use: A Race or Hospital Effect?](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1475-6773.2006.00598.x)**<br>
+*Take Home Message*: Most observed racial and ethnic differences in end-of-life ICU use reflected which hospitals patients attended rather than differences within the same hospital.
 
-[Genetic misdiagnoses and the potential for health disparities](https://www.nejm.org/doi/full/10.1056/NEJMsa1507092)
+**[Genetic misdiagnoses and the potential for health disparities](https://www.nejm.org/doi/full/10.1056/NEJMsa1507092)**<br>
+*Take Home Message*: Underrepresentation of people with African ancestry in genetic reference datasets contributed to misclassification of benign variants as pathogenic, illustrating how unrepresentative data can cause diagnostic inequity.
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>

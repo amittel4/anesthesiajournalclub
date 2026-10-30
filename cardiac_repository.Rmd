@@ -8,153 +8,209 @@ title: "Adult Cardiothoracic Anesthesiology"
 
 <b>Study Design</b>
 
-[Understanding RCTs](https://adc.bmj.com/content/90/8/840)
+**[Understanding RCTs](https://adc.bmj.com/content/90/8/840)**<br>
+*Take Home Message*: Randomization, allocation concealment, and blinded outcome assessment help readers judge whether a trial's treatment effect is credible and applicable.
 
-[How to Read a Meta-Analysis](https://www.bmj.com/content/315/7109/672)
+**[How to Read a Meta-Analysis](https://www.bmj.com/content/315/7109/672)**<br>
+*Take Home Message*: Interpret pooled effects alongside study quality, heterogeneity, and confidence intervals before applying a meta-analysis to patient care.
 
 <br>
 <b>Anesthestic Agents and Approaches</b>
 
-[MYRIAD](https://www.nejm.org/doi/full/10.1056/NEJMoa1816476)
+**[MYRIAD](https://www.nejm.org/doi/full/10.1056/NEJMoa1816476)**<br>
+*Take Home Message*: Volatile anesthetics did not reduce one-year mortality compared with total intravenous anesthesia in patients undergoing elective CABG.
 
-[SOLVE TAVI](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.120.046451)
+**[SOLVE TAVI](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.120.046451)**<br>
+*Take Home Message*: Conscious sedation and general anesthesia produced equivalent rates of the composite 30-day outcome in selected patients undergoing transfemoral TAVR.
 
-[DEXACET](https://jamanetwork.com/journals/jama/fullarticle/2725234)
+**[DEXACET](https://jamanetwork.com/journals/jama/fullarticle/2725234)**<br>
+*Take Home Message*: Scheduled intravenous acetaminophen reduced in-hospital delirium compared with placebo in older adults undergoing cardiac surgery in this single-center trial.
 
-[EEG Burst Suppression Mediates Delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7365754/?report=reader)
+**[EEG Burst Suppression Mediates Delirium](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7365754/?report=reader)**<br>
+*Take Home Message*: EEG burst suppression during cardiopulmonary bypass was associated with postoperative delirium in older patients, but this observational mediation analysis does not establish causation.
 
-[ENGAGES-Canada](https://jamanetwork.com/journals/jama/fullarticle/2819715)
+**[ENGAGES-Canada](https://jamanetwork.com/journals/jama/fullarticle/2819715)**<br>
+*Take Home Message*: EEG-guided anesthetic administration reduced anesthetic exposure and EEG suppression but did not reduce delirium after cardiac surgery in older adults.
 
 <br>
 <b>Perioperative Medical Therapy</b>
 
-[POISE](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(08)60601-7/fulltext)
+**[POISE](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(08)60601-7/fulltext)**<br>
+*Take Home Message*: Starting extended-release metoprolol shortly before noncardiac surgery reduced myocardial infarction but increased stroke and death.
 
-[POISE II](https://www.nejm.org/doi/full/10.1056/nejmoa1401105)
+**[POISE II](https://www.nejm.org/doi/full/10.1056/nejmoa1401105)**<br>
+*Take Home Message*: Perioperative aspirin did not reduce death or nonfatal myocardial infarction after noncardiac surgery and increased major bleeding.
 
-[POISE III](https://www.nejm.org/doi/full/10.1056/NEJMoa2201171)
+**[POISE III](https://www.nejm.org/doi/full/10.1056/NEJMoa2201171)**<br>
+*Take Home Message*: Tranexamic acid reduced major bleeding in noncardiac surgery, but noninferiority for the composite cardiovascular safety outcome was not established.
 
-[Variation in Inotrope use in Cardiac Surgery](https://pubs.asahq.org/anesthesiology/article/139/2/122/138077/Patient-Clinician-and-Institution-level-Variation)
+**[Variation in Inotrope use in Cardiac Surgery](https://pubs.asahq.org/anesthesiology/article/139/2/122/138077/Patient-Clinician-and-Institution-level-Variation)**<br>
+*Take Home Message*: Inotrope use during cardiac surgery varied substantially by clinician and institution even after adjustment for patient characteristics.
 
 <br>
 <b>Fluids and Blood Products</b>
 
-[ALBICS](https://jamanetwork.com/journals/jama/fullarticle/2794363)
+**[ALBICS](https://jamanetwork.com/journals/jama/fullarticle/2794363)**<br>
+*Take Home Message*: Using 4% albumin rather than Ringer acetate for bypass priming and perioperative volume replacement did not reduce major adverse events after cardiac surgery.
 
-[PCC vs FFP for post-cardiotomy bleeding](https://jamanetwork.com/journals/jamasurgery/article-abstract/2793560)
+**[PCC vs FFP for post-cardiotomy bleeding](https://jamanetwork.com/journals/jamasurgery/article-abstract/2793560)**<br>
+*Take Home Message*: In this small randomized trial, PCC did not significantly reduce postoperative chest-tube drainage compared with plasma, although some transfusion outcomes favored PCC.
 
-[FARES-II, PCC vs FFP](https://jamanetwork.com/journals/jama/fullarticle/2832096?resultClick=1)
+**[FARES-II, PCC vs FFP](https://jamanetwork.com/journals/jama/fullarticle/2832096?resultClick=1)**<br>
+*Take Home Message*: PCC achieved better hemostatic efficacy and reduced transfusion requirements compared with frozen plasma for coagulopathic bleeding after cardiopulmonary bypass.
 
-[AHN: Acute Normovolemic Hemodilution in Cardiac Surgery; NEJM 2025](https://www.nejm.org/doi/full/10.1056/NEJMoa2504948?query=TOC)
+**[ANH: Acute Normovolemic Hemodilution in Cardiac Surgery; NEJM 2025](https://www.nejm.org/doi/full/10.1056/NEJMoa2504948?query=TOC)**<br>
+*Take Home Message*: Acute normovolemic hemodilution did not significantly reduce the proportion of cardiac surgery patients receiving allogeneic red-cell transfusions.
 
 <br>
 <b>Aortic Valve</b>
 
-[Evolut Low Risk](https://www.nejm.org/doi/full/10.1056/nejmoa1816885)
+**[Evolut Low Risk](https://www.nejm.org/doi/full/10.1056/nejmoa1816885)**<br>
+*Take Home Message*: Self-expanding TAVR was noninferior to surgery for death or disabling stroke at two years in patients with severe aortic stenosis at low surgical risk.
 
-[Partner III](https://www.nejm.org/doi/full/10.1056/nejmoa1814052)
+**[Partner III](https://www.nejm.org/doi/full/10.1056/nejmoa1814052)**<br>
+*Take Home Message*: Balloon-expandable TAVR reduced the one-year composite of death, stroke, or rehospitalization compared with surgery in selected patients at low surgical risk.
 
-[PROTECTED TAVR](https://www.nejm.org/doi/full/10.1056/NEJMoa2204961)
+**[PROTECTED TAVR](https://www.nejm.org/doi/full/10.1056/NEJMoa2204961)**<br>
+*Take Home Message*: Cerebral embolic protection did not significantly reduce the primary outcome of periprocedural stroke during TAVR.
 
 <br>
 <b>Mitral Valve</b>
 
-[CTSN Ischemic MR](https://www.nejm.org/doi/full/10.1056/nejmoa1312808)
+**[CTSN Ischemic MR](https://www.nejm.org/doi/full/10.1056/nejmoa1312808)**<br>
+*Take Home Message*: Repair and chordal-sparing replacement produced similar one-year survival and ventricular remodeling in severe ischemic mitral regurgitation, but recurrent regurgitation was more frequent after repair.
 
-[RIME](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.112.143818)
+**[RIME](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.112.143818)**<br>
+*Take Home Message*: Adding mitral annuloplasty to CABG improved exercise capacity and ventricular remodeling in moderate ischemic mitral regurgitation in this small trial stopped early.
 
-[Surgical LAA occlusion to prevent stroke](https://www.nejm.org/doi/full/10.1056/NEJMoa2101897)
+**[Surgical LAA occlusion to prevent stroke](https://www.nejm.org/doi/full/10.1056/NEJMoa2101897)**<br>
+*Take Home Message*: Concomitant left atrial appendage occlusion reduced ischemic stroke or systemic embolism in patients with atrial fibrillation undergoing cardiac surgery, most of whom continued anticoagulation.
 
 <br>
 <b>Tricuspid Valve</b>
 
-[CTSN Tricuspid Repair in Mitral Regurg](https://www.nejm.org/doi/full/10.1056/NEJMoa2115961)
+**[CTSN Tricuspid Repair in Mitral Regurg](https://www.nejm.org/doi/full/10.1056/NEJMoa2115961)**<br>
+*Take Home Message*: Adding tricuspid annuloplasty to degenerative mitral surgery reduced progression of tricuspid regurgitation but increased permanent pacemaker implantation.
 
-[TRILUMINATE Pivotal](https://www.nejm.org/doi/full/10.1056/NEJMoa2300525)
+**[TRILUMINATE Pivotal](https://www.nejm.org/doi/full/10.1056/NEJMoa2300525)**<br>
+*Take Home Message*: Tricuspid transcatheter edge-to-edge repair improved quality of life but did not clearly reduce death or heart-failure hospitalization at one year.
 
-[Tricuspid Regurgitation - NEJM 2023 Review](https://www.nejm.org/doi/full/10.1056/NEJMra2216709)
+**[Tricuspid Regurgitation - NEJM 2023 Review](https://www.nejm.org/doi/full/10.1056/NEJMra2216709)**<br>
+*Take Home Message*: Assessment of tricuspid regurgitation should integrate severity, right ventricular function, and underlying cause to guide medical, surgical, or transcatheter treatment.
 
 <br>
 <b>Heart Failure, Mechanical Support, and Transplants</b>
 
-[MOMENTUM III](https://jamanetwork.com/journals/jama/fullarticle/2796306)
+**[MOMENTUM III](https://jamanetwork.com/journals/jama/fullarticle/2796306)**<br>
+*Take Home Message*: In extended observational follow-up of MOMENTUM 3, HeartMate 3 was associated with better five-year survival free of disabling stroke or pump replacement than HeartMate II.
 
-[Mild AI at time of LVAD](https://www.jtcvs.org/article/S0022-5223(20)31062-X/fulltext)
+**[Mild AI at time of LVAD](https://www.jtcvs.org/article/S0022-5223(20)31062-X/fulltext)**<br>
+*Take Home Message*: Uncorrected mild aortic insufficiency at LVAD implantation was associated with progressive regurgitation and more heart-failure readmissions, without a demonstrated survival difference.
 
-[Transplantation Outcomes with Donor Hearts after Circulatory Death](https://www.nejm.org/doi/full/10.1056/NEJMoa2212438)
+**[Transplantation Outcomes with Donor Hearts after Circulatory Death](https://www.nejm.org/doi/full/10.1056/NEJMoa2212438)**<br>
+*Take Home Message*: Transplantation using reanimated donor hearts after circulatory death was noninferior to transplantation using hearts after brain death for six-month risk-adjusted survival.
 
-[INCEPTION: Early Extracorporeal CPR for Refractory Out-of-Hospital Cardiac Arrest](https://www.nejm.org/doi/full/10.1056/NEJMoa2204511)
+**[INCEPTION: Early Extracorporeal CPR for Refractory Out-of-Hospital Cardiac Arrest](https://www.nejm.org/doi/full/10.1056/NEJMoa2204511)**<br>
+*Take Home Message*: Early extracorporeal CPR did not significantly improve 30-day survival with favorable neurologic function compared with conventional CPR in refractory out-of-hospital arrest.
 
-[ECLS-SHOCK: Extracorporeal Life Support in Infarct-Related Cardiogenic Shock](https://www.nejm.org/doi/10.1056/NEJMoa2307227)
+**[ECLS-SHOCK: Extracorporeal Life Support in Infarct-Related Cardiogenic Shock](https://www.nejm.org/doi/10.1056/NEJMoa2307227)**<br>
+*Take Home Message*: Routine early extracorporeal life support did not reduce 30-day mortality in infarct-related cardiogenic shock and increased bleeding and vascular complications.
 
 <br>
 <b>CABG</b>
 
-[Radial Artery Patency](https://www.nejm.org/doi/full/10.1056/nejmoa040982)
+**[Radial Artery Patency](https://www.nejm.org/doi/full/10.1056/nejmoa040982)**<br>
+*Take Home Message*: Radial-artery grafts had better one-year patency than saphenous-vein grafts, particularly when the target coronary artery had severe stenosis.
 
-[Arterial Revascularization](https://www.nejm.org/doi/full/10.1056/NEJMoa1808783)
+**[Arterial Revascularization](https://www.nejm.org/doi/full/10.1056/NEJMoa1808783)**<br>
+*Take Home Message*: Bilateral internal thoracic artery grafting did not significantly improve ten-year survival compared with single internal thoracic artery grafting in the intention-to-treat analysis.
 
-[ROOBY](https://www.nejm.org/doi/full/10.1056/nejmoa1614341)
+**[ROOBY](https://www.nejm.org/doi/full/10.1056/nejmoa1614341)**<br>
+*Take Home Message*: At five years, off-pump CABG had higher mortality and more major adverse cardiovascular events than on-pump CABG in the ROOBY population.
 
-[GOPCABE](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.035857)
+**[GOPCABE](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.118.035857)**<br>
+*Take Home Message*: Among patients aged 75 years or older, off-pump and on-pump CABG produced similar five-year survival and rates of major adverse cardiovascular events.
 
-[DOORS](https://www.sciencedirect.com/science/article/pii/S0022522314001846?via%3Dihub)
+**[DOORS](https://www.sciencedirect.com/science/article/pii/S0022522314001846?via%3Dihub)**<br>
+*Take Home Message*: Off-pump CABG produced lower six-month graft patency than on-pump CABG in older patients despite comparable heparinization protocols.
 
-[VISION](https://www.nejm.org/doi/full/10.1056/NEJMoa2000803)
+**[VISION](https://www.nejm.org/doi/full/10.1056/NEJMoa2000803)**<br>
+*Take Home Message*: Postoperative high-sensitivity troponin I levels associated with increased 30-day mortality after cardiac surgery were substantially higher than commonly used myocardial-injury thresholds.
 
 <br>
 <b>Major Aorta Surgery</b>
 
-[Spinal Cord Protection - Review](https://www.sciencedirect.com/science/article/pii/S1053077021005309?via%3Dihub)
+**[Spinal Cord Protection - Review](https://www.sciencedirect.com/science/article/pii/S1053077021005309?via%3Dihub)**<br>
+*Take Home Message*: Spinal cord protection during thoracoabdominal aortic surgery requires a multimodal strategy that preserves cord perfusion and addresses ischemic risk throughout the perioperative period.
 
-[Pathophysiology of Aortic Cross-Clamping and Unclamping](https://pubs.asahq.org/anesthesiology/article/82/4/1026/34974/The-Pathophysiology-of-Aortic-Cross-clamping-and)
+**[Pathophysiology of Aortic Cross-Clamping and Unclamping](https://pubs.asahq.org/anesthesiology/article/82/4/1026/34974/The-Pathophysiology-of-Aortic-Cross-clamping-and)**<br>
+*Take Home Message*: Aortic cross-clamping increases ventricular afterload and redistributes blood flow, while unclamping can cause profound hypotension from reduced vascular resistance and reperfusion effects.
 
 <br>
 <b>Lung Injury</b>
 
-[STRESS](ttps://www.nejm.org/doi/10.1056/NEJMoa2212667)
+**[STRESS](https://www.nejm.org/doi/10.1056/NEJMoa2212667)**<br>
+*Take Home Message*: In infants undergoing cardiac surgery, prophylactic methylprednisolone did not significantly improve the adjusted primary outcome and increased insulin-treated hyperglycemia.
 
-[SIRS](https://www.sciencedirect.com/science/article/pii/S0140673615002731?via%3Dihub)
+**[SIRS](https://www.sciencedirect.com/science/article/pii/S0140673615002731?via%3Dihub)**<br>
+*Take Home Message*: Perioperative methylprednisolone did not reduce 30-day mortality or major morbidity in higher-risk adults undergoing cardiac surgery with cardiopulmonary bypass.
 
-[DECS](https://jamanetwork.com/journals/jama/fullarticle/1389612)
+**[DECS](https://jamanetwork.com/journals/jama/fullarticle/1389612)**<br>
+*Take Home Message*: High-dose dexamethasone did not significantly reduce the primary composite of major adverse events after cardiac surgery.
 
-[MECANO](https://www.sciencedirect.com/science/article/pii/S0012369220351527?via%3Dihub)
+**[MECANO](https://www.sciencedirect.com/science/article/pii/S0012369220351527?via%3Dihub)**<br>
+*Take Home Message*: Continuing low-tidal-volume ventilation during cardiopulmonary bypass did not significantly reduce the primary composite of death and postoperative respiratory complications.
 
-[Ventilation during CPB Meta-analysis](https://journals.lww.com/md-journal/FullText/2017/03240/Ventilation_during_cardiopulmonary_bypass_for.63.aspx)
+**[Ventilation during CPB Meta-analysis](https://journals.lww.com/md-journal/FullText/2017/03240/Ventilation_during_cardiopulmonary_bypass_for.63.aspx)**<br>
+*Take Home Message*: Ventilation during cardiopulmonary bypass improved immediate gas exchange in pooled small trials but did not clearly reduce postoperative pulmonary complications or hospital stay.
 
-[Intensive Recruitment Strategy RCT](https://jamanetwork.com/journals/jama/fullarticle/2612913)
+**[Intensive Recruitment Strategy RCT](https://jamanetwork.com/journals/jama/fullarticle/2612913)**<br>
+*Take Home Message*: An intensive recruitment strategy reduced the severity of pulmonary complications compared with moderate recruitment in hypoxemic patients after cardiac surgery in this single-center trial.
 
-[PROVECS](https://link.springer.com/article/10.1007/s00134-019-05741-8)
+**[PROVECS](https://link.springer.com/article/10.1007/s00134-019-05741-8)**<br>
+*Take Home Message*: An open-lung ventilation strategy did not significantly reduce postoperative pulmonary complications compared with conventional ventilation in elective on-pump cardiac surgery.
 
-[PROVHILO](https://www.sciencedirect.com/science/article/pii/S0140673614604165?via%3Dihub)
+**[PROVHILO](https://www.sciencedirect.com/science/article/pii/S0140673614604165?via%3Dihub)**<br>
+*Take Home Message*: High PEEP with recruitment maneuvers did not reduce pulmonary complications after open abdominal surgery and caused more hypotension than low PEEP.
 
-[IMPROVE](https://www.nejm.org/doi/full/10.1056/NEJMoa1301082)
+**[IMPROVE](https://www.nejm.org/doi/full/10.1056/NEJMoa1301082)**<br>
+*Take Home Message*: A protective ventilation bundle using low tidal volumes, PEEP, and recruitment maneuvers reduced major complications after abdominal surgery compared with high tidal volumes without PEEP.
 
-[High vs Low PEEP in Obese Non-Cardiac Surgery](https://jamanetwork.com/journals/jama/fullarticle/2735541)
+**[High vs Low PEEP in Obese Non-Cardiac Surgery](https://jamanetwork.com/journals/jama/fullarticle/2735541)**<br>
+*Take Home Message*: High PEEP with recruitment maneuvers did not significantly reduce postoperative pulmonary complications in obese surgical patients and increased intraoperative hemodynamic adverse events.
 
-[Driving Pressure in Thoracic Surgery](https://pubs.asahq.org/anesthesiology/article/130/3/385/19222/Driving-Pressure-during-Thoracic-Surgery)
+**[Driving Pressure in Thoracic Surgery](https://pubs.asahq.org/anesthesiology/article/130/3/385/19222/Driving-Pressure-during-Thoracic-Surgery)**<br>
+*Take Home Message*: Individualizing PEEP to minimize driving pressure reduced postoperative pulmonary complications during one-lung ventilation in this randomized thoracic surgery trial.
 
-[iPROVE-OLV: Individualised Open-Lung ventilation during OLV Multicenter RCT](https://pubmed.ncbi.nlm.nih.gov/38065200/)
+**[iPROVE-OLV: Individualised Open-Lung ventilation during OLV Multicenter RCT](https://pubmed.ncbi.nlm.nih.gov/38065200/)**<br>
+*Take Home Message*: An individualized open-lung strategy reduced severe postoperative pulmonary complications compared with conventional protective ventilation in patients undergoing lung resection with one-lung ventilation.
 
-[Driving Pressure in Abdominal Surgery](https://journals.lww.com/anesthesia-analgesia/Fulltext/2021/11000/Driving_Pressure_Guided_Individualized_Positive.18.aspx)
+**[Driving Pressure in Abdominal Surgery](https://journals.lww.com/anesthesia-analgesia/Fulltext/2021/11000/Driving_Pressure_Guided_Individualized_Positive.18.aspx)**<br>
+*Take Home Message*: PEEP individualized to the lowest driving pressure reduced clinically significant pulmonary complications after open upper abdominal surgery in this small single-center trial.
 
-[Mechanical Power and Postoperative Respiratory Failure: Multicenter Retrospective Cohort Study](https://pubs.asahq.org/anesthesiology/article/137/1/41/136245/Mechanical-Power-during-General-Anesthesia-and)
+**[Mechanical Power and Postoperative Respiratory Failure: Multicenter Retrospective Cohort Study](https://pubs.asahq.org/anesthesiology/article/137/1/41/136245/Mechanical-Power-during-General-Anesthesia-and)**<br>
+*Take Home Message*: Higher intraoperative mechanical power was associated with postoperative respiratory failure requiring reintubation, without proving that lowering mechanical power prevents it.
 
-[PRIME-AIR](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(25)00040-2/abstract)
+**[PRIME-AIR](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(25)00040-2/abstract)**<br>
+*Take Home Message*: A perioperative lung-expansion bundle did not reduce pulmonary complication severity compared with usual care in at-risk adults undergoing major open abdominal surgery.
 
 <br>
 <b>Inflammation</b>
 
-[The Systemic Inflammatory Response to Cardiac Surgery: Implications for the Anesthesiologist](https://pubs.asahq.org/anesthesiology/article/97/1/215/40155/The-Systemic-Inflammatory-Response-to-Cardiac)
+**[The Systemic Inflammatory Response to Cardiac Surgery: Implications for the Anesthesiologist](https://pubs.asahq.org/anesthesiology/article/97/1/215/40155/The-Systemic-Inflammatory-Response-to-Cardiac)**<br>
+*Take Home Message*: Cardiopulmonary bypass triggers interacting inflammatory pathways that can contribute to organ dysfunction, supporting a broad understanding of perioperative injury rather than a single-target explanation.
 
-[Phenotypes of CPB-induced Inflammatory Response](https://journals.lww.com/anesthesia-analgesia/fulltext/2023/03000/derivation_and_validation_of_clinical_phenotypes.13.aspx)
+**[Phenotypes of CPB-induced Inflammatory Response](https://journals.lww.com/anesthesia-analgesia/fulltext/2023/03000/derivation_and_validation_of_clinical_phenotypes.13.aspx)**<br>
+*Take Home Message*: Three clinical phenotypes of the bypass-associated inflammatory response differed in biomarker levels and outcomes, providing a basis for future individualized-treatment research.
 
 <br>
 <b>Echocardiography</b>
 
-[Association of E/e' with CV Events Retrospective Cohort](https://pubmed.ncbi.nlm.nih.gov/36332804/)
+**[Association of E/e' with CV Events Retrospective Cohort](https://pubmed.ncbi.nlm.nih.gov/36332804/)**<br>
+*Take Home Message*: Higher echocardiographic E/e' was associated with cardiovascular events across a diverse clinical population, supporting its role as a risk marker rather than a standalone diagnosis.
 
-[Mild AI at time of LVAD](https://www.jtcvs.org/article/S0022-5223(20)31062-X/fulltext)
+**[Mild AI at time of LVAD](https://www.jtcvs.org/article/S0022-5223(20)31062-X/fulltext)**<br>
+*Take Home Message*: Uncorrected mild aortic insufficiency at LVAD implantation was associated with progressive regurgitation and more heart-failure readmissions, without a demonstrated survival difference.
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-63NPTTVTEF"></script>
